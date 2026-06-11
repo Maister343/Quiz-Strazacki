@@ -1,0 +1,8 @@
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Quiz.exe
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\appsettings.Development.json
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\appsettings.json
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Questions.json
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Quiz.dll
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Quiz.deps.json
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Quiz.runtimeconfig.json
+d:\Programming_C#\QuizStraz\Quiz\bin\Release\net10.0\publish\Quiz.pdb

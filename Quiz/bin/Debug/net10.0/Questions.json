@@ -1,0 +1,3614 @@
+[
+  {
+    "QuestionTitle": "Pojemność zbiornika na środek pianotwórczy w samochodzie GBA 2,5/16 TYP 005 wynosi:",
+    "AnswerA": "160 Litrów",
+    "AnswerB": "250 Litrów",
+    "AnswerC": "500 Litrów",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Najwyższą władzą w OSP jest:",
+    "AnswerA": "prezes",
+    "AnswerB": "zarząd",
+    "AnswerC": "walne zebranie",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Gdzie w Polsce znajdują się relikwie św. Floriana?",
+    "AnswerA": "w Gnieźnie",
+    "AnswerB": "w Krakowie",
+    "AnswerC": "w Warszawie",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaki gaz o właściwościach wybuchowych wydziela się podczas ładowania akumulatorów kwasowych?",
+    "AnswerA": "metan",
+    "AnswerB": "etan",
+    "AnswerC": "wodór",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Oświetlenie awaryjne obejmuje:",
+    "AnswerA": "oświetlenie bezpieczeństwa i ewakuacyjne",
+    "AnswerB": "oświetlenie bezpieczeństwa, ewakuacyjne, kierunkowe i przeszkodowe",
+    "AnswerC": "taki termin nie istnieje",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Komendanta Głównego PSP powołuje i odwołuje:",
+    "AnswerA": "Minister Spraw Wewnętrznych i Administracji",
+    "AnswerB": "Prezydent RP na wniosek Prezesa Rady Ministrów",
+    "AnswerC": "Prezes Rady Ministrów na wniosek Ministra Spraw Wewnętrznych i Administracji",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Gdzie sprawdzamy tętno u dorosłych poszkodowanych?",
+    "AnswerA": "na przegubie ręki",
+    "AnswerB": "na tętnicach szyjnych",
+    "AnswerC": "w pachwinach",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Projekt budowlany wymaga uzgodnienia z:",
+    "AnswerA": "rzeczoznawcą ds. zabezpieczeń przeciwpożarowych",
+    "AnswerB": "Komendą Miejską/Powiatową PSP",
+    "AnswerC": "Komendą Wojewódzką PSP",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Klasa odporności pożarowej dotyczy:",
+    "AnswerA": "elementów budynku",
+    "AnswerB": "budynku",
+    "AnswerC": "oddzieleń przeciwpożarowych budynku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Decyzję pokontrolną nakazującą usunięcie nieprawidłowości wydaje:",
+    "AnswerA": "Komendant Miejski/Powiatowy PSP",
+    "AnswerB": "oficer prewencji Komendy miejskiej/Powiatowej PSP",
+    "AnswerC": "Komendant Wojewódzki PSP",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Odległość hydrantu zewnętrznego od ścian budynku powinna wynosić:",
+    "AnswerA": "2-10 m",
+    "AnswerB": "najmniej 5 m",
+    "AnswerC": "do 5 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Produkowane obecnie gaśnice śniegowe posiadają zawór",
+    "AnswerA": "zbijakowy",
+    "AnswerB": "pokrętny",
+    "AnswerC": "szybkootwieralny",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W jakiej minimalnej odległości od lasu można rozpalić ognisko?",
+    "AnswerA": "70 m",
+    "AnswerB": "50 m",
+    "AnswerC": "100 m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy samochód GBAM - 2/8 + 8 posiada motopompę?",
+    "AnswerA": "może posiadać",
+    "AnswerB": "nie",
+    "AnswerC": "tak",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Minimalna odległość między butlą z gazem propan - butan urządzeniem grzewczym powinna wynosić:",
+    "AnswerA": "2 m",
+    "AnswerB": "1,5 m",
+    "AnswerC": "0,5 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Gaz propan - butan jest:",
+    "AnswerA": "cięższy od powietrza",
+    "AnswerB": "lżejszy od powietrza",
+    "AnswerC": "ciężar włąsciwy gazu propan - butan jest równy ciężarowi właściwemupowietrza",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co oznacza skrót KCKR?",
+    "AnswerA": "Krajowe Centrum Koordynacji Ratownictwa",
+    "AnswerB": "Krajowe Centrum Komend Ratowniczych",
+    "AnswerC": "Komisja Centralna Koordynacji Ratownictwa",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Samochód gaśniczy GBA 2,5/16 typ 005 posiada:",
+    "AnswerA": "urządzenie szybkiego natarcia W - 52",
+    "AnswerB": "urządzenie szybkiego natarcia W - 25",
+    "AnswerC": "nie posiada urządzenia szybkiego natarcia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Wydobywający się CO2 z gaśnicy śniegowej osiąga temperaturę:",
+    "AnswerA": "2 °C",
+    "AnswerB": "- 10 °C",
+    "AnswerC": "- 79 °C",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Front działania prądu gaśniczego w obronie wynosi:",
+    "AnswerA": "10 m",
+    "AnswerB": "20 m",
+    "AnswerC": "5 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaka jest praktyczna wysokość ssania motopomp strażackich?",
+    "AnswerA": "7,5 m",
+    "AnswerB": "7 m",
+    "AnswerC": "6,5 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Drabina dwuprzęsłowa wysuwana może być sprawiona jako:",
+    "AnswerA": "przyparta",
+    "AnswerB": "odchylona",
+    "AnswerC": "wolnostojąca",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaka jeest normatywna szerokość poziomych dróg ewakuacyjnych w nowo projektowanych budynkach?",
+    "AnswerA": "1,5 m",
+    "AnswerB": "1,4 m",
+    "AnswerC": "1,8 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Związek Ochotniczych Straży Pożarnych został powołany w roku:",
+    "AnswerA": "1948",
+    "AnswerB": "1958",
+    "AnswerC": "1956",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co stanie się z płomieniem świecy, jeżeli w pomieszczeniu zwiększymy stężenie tlenu?",
+    "AnswerA": "płomień wydłuży się",
+    "AnswerB": "płomień skróci się i rozszerzy",
+    "AnswerC": "płomień zgaśnie",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Muzea, jako budynki można zaliczyć do kategorii zagrożenia ludzi:",
+    "AnswerA": "ZL I",
+    "AnswerB": "ZL IV",
+    "AnswerC": "ZL V",
+    "CorrectAnswer": 2 
+  },
+  {
+    "QuestionTitle": "Co oznacza symbol GBAM",
+    "AnswerA": "samochód specjalny gaśniczy z autopompą",
+    "AnswerB": "samochód specjalny gaśniczy ze zbiornikiem autopompą i motopompą",
+    "AnswerC": "samochód gaśniczy ze zbiornikiem z autopompą i motopompą",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku powołano Związek Ochotniczych Straży Pożarnych RP?",
+    "AnswerA": "1975",
+    "AnswerB": "1995",
+    "AnswerC": "1992",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Wokół placów składowych należy zachować pas ochronny o szerokości minimum:",
+    "AnswerA": "1 m",
+    "AnswerB": "2 m",
+    "AnswerC": "4 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Z przewodów dymowych i spalinowych w budynkach opalanych paliwem stałym należy usuwać zanieczyszczenia:",
+    "AnswerA": "co najmniej 2 razy w roku",
+    "AnswerB": "co najmniej 4 razy w roku",
+    "AnswerC": "co najmniej raz do roku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Budynki niskie to:",
+    "AnswerA": "budynki mieszkalne o wysokości do 4 kondygnacji włącznie",
+    "AnswerB": "budynki mieszkalne o wysokości do 9 kondygnacji włącznie",
+    "AnswerC": "budynki mieszkalne o wysokości do 2 kondygnacji włącznie",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaki jest najwyższy stopień zagrożenia pożarowego lasu?",
+    "AnswerA": "I",
+    "AnswerB": "III",
+    "AnswerC": "II",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Obecny Komendant Główny PSP jest w stopniu:",
+    "AnswerA": "nadbrygadiera",
+    "AnswerB": "generała brygadiera",
+    "AnswerC": "starszego brygadiera",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co to jest wstrząs pourazowy?",
+    "AnswerA": "reakcja organizmu na uraz",
+    "AnswerB": "uderzenie po upadku",
+    "AnswerC": "utrata przytomności",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jednostką organizacyjną najniższego szczebla w PSP jest:",
+    "AnswerA": "oddział ratowniczy",
+    "AnswerB": "zawodowa straż pożarna",
+    "AnswerC": "jednostka ratowniczo-gaśnicza",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Minimum ile osób potrzeba do utworzenia OSP?",
+    "AnswerA": "10",
+    "AnswerB": "15",
+    "AnswerC": "20",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Elew to słuchacz szkoły:",
+    "AnswerA": "podoficerskiej",
+    "AnswerB": "aspirantów",
+    "AnswerC": "oficerskiej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile osób liczy korpus oficerów w Straży Pożarnej?",
+    "AnswerA": "8",
+    "AnswerB": "5",
+    "AnswerC": "6",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Patron strażaków trzyma w ręku:",
+    "AnswerA": "wiadro",
+    "AnswerB": "toporek",
+    "AnswerC": "bosak",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Do sprzętu gaśniczego powinien być zapewniony dostęp co najmniej:",
+    "AnswerA": "1 m",
+    "AnswerB": "1,5 m",
+    "AnswerC": "1,6 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Szkoła kształcąca kadry oficerskie Państwowej Straży Pożarnej znajduje się w Warszawie i nosi nazwę:",
+    "AnswerA": "Centralna Szkoła Pożarnicza",
+    "AnswerB": "Wyższa Oficerska Szkoła Pożarnicza",
+    "AnswerC": "Szkoła Główna Służby Pożarniczej",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaka jest normatywna szerokość poziomych dróg ewakuacyjnych w nowo projektowanych budynkach, jeżeli są one przeznaczone do ewakuacji dla nie więcej niż 20 osób?",
+    "AnswerA": "1,2 m",
+    "AnswerB": "1,4 m",
+    "AnswerC": "0,9 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W Warszawie w ,,Domu Strażaka” przy ul. Oboźnej posiada swoją siedzibę:",
+    "AnswerA": "Centrum Zarządzania Kryzysowego Państwa",
+    "AnswerB": "Zarząd Główny ZOSP RP",
+    "AnswerC": "Komenda Główna PSP",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W jakiej odległości od skraju drogi publicznej zabronione jest pozostawienie gałęzi, chrustu itp.?",
+    "AnswerA": "do 50 m",
+    "AnswerB": "do 25 m",
+    "AnswerC": "75 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Środki zwilżające są to środki, które:",
+    "AnswerA": "zmniejszają opory tłoczenia wody",
+    "AnswerB": "zwiększają napięcie powierzchniowe wody",
+    "AnswerC": "obniżają napięcie powierzchniowe wody",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Pożary butli z acetylenem to pożary grupy:",
+    "AnswerA": "C",
+    "AnswerB": "D",
+    "AnswerC": "B",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Środkiem uodparniającym drewno na działanie ognia jest:",
+    "AnswerA": "farba olejna",
+    "AnswerB": "Pyran",
+    "AnswerC": "Fobos",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Sterty i stogi można ustawiać od budynków palnych w odległości co najmniej:",
+    "AnswerA": "20 m",
+    "AnswerB": "30 m",
+    "AnswerC": "50 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Obowiązujące miano określające gęstość obciążenia ogniowego to:",
+    "AnswerA": "kg/m2",
+    "AnswerB": "MJ/m3",
+    "AnswerC": "kcal/kg",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przy poborze wody z otwartego zbiornika smok ssawny powinien być zanurzony:",
+    "AnswerA": "15–20 cm od dna zbiornika",
+    "AnswerB": "20–40 cm poniżej lustra wody",
+    "AnswerC": "15–20 cm poniżej lustra wody",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaka jest minimalna pojemność przeciwpożarowego zbiornika wodnego?",
+    "AnswerA": "50 m3",
+    "AnswerB": "75 m3",
+    "AnswerC": "100 m3",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Które z wymienionych substancji można gasić wodą?",
+    "AnswerA": "sód",
+    "AnswerB": "magnez",
+    "AnswerC": "słoma",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Zaczadzenie następuje na skutek działania:",
+    "AnswerA": "CO",
+    "AnswerB": "CO2",
+    "AnswerC": "N",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Komendanta Głównego PSP powołuje i odwołuje:",
+    "AnswerA": "Prezydent RP na wniosek Ministra Spraw Wewnętrznych i Administracji",
+    "AnswerB": "Prezesa Rady Ministrów Minister Spraw Wewnętrznych i Administracji",
+    "AnswerC": "Prezes Rady Ministrów na wniosek",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile jest stopni zagrożenia pożarowego lasu?",
+    "AnswerA": "2",
+    "AnswerB": "4",
+    "AnswerC": "3",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Gaz propan – butan jest szczególnie niebezpieczny ponieważ:",
+    "AnswerA": "jest lżejszy od powietrza",
+    "AnswerB": "rozchodzi się we wszystkich kierunkach",
+    "AnswerC": "jest cięższy od powietrza",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Prądownica pianowa PP 2 – 12 oznacza:",
+    "AnswerA": "ciśnienie 2 atm.; nominalna wydajność wodna 120 l/min",
+    "AnswerB": "liczba spienienia 2; nominalna wydajność wodna 12 l/s",
+    "AnswerC": "nominalna wydajność wodna 200 l/min; liczba spienienia 12",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Klapa dymowa to:",
+    "AnswerA": "urządzenie służące do gaszenia cieczy palnych w zbiornikach",
+    "AnswerB": "urządzenie służące do zamykania zbiorników z gazami palnymi",
+    "AnswerC": "pokrywa zamontowana w dachu budynku umożliwiająca usunięcie z pomieszczeń dymu i gorących gazów pożarowych",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Linia zasilająca to:",
+    "AnswerA": "linia wężowa od nasady tłocznej pompy pożarniczej ustawionej na stanowisku wodnym do rozdzielcza",
+    "AnswerB": "linia wężowa od punktu czerpania wody do nasady ssawnej pompy pożarniczej",
+    "AnswerC": "linia wężowa od nasady hydrantu do nasady ssawnej pompy pożarniczej lub bezpośrednio do zbiornika wodnego samochodu gaśniczego",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Nomex to:",
+    "AnswerA": "środek gaśniczy",
+    "AnswerB": "ubranie strażackie",
+    "AnswerC": "środek ogniochronny",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W czasie akcji gaśniczej znak sygnalizacyjny wykonany przez strażaka prawą ręką odchyloną w bok w dół oznacza:",
+    "AnswerA": "woda naprzód",
+    "AnswerB": "woda stój",
+    "AnswerC": "rota I (I woda)",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Lekka woda to:",
+    "AnswerA": "środek niezbędny do wytwarzania piany lekkiej",
+    "AnswerB": "nowoczesny wypełniacz poduszek amortyzujący upadek ludzi podczas ich ewakuacji z wyższych kondygnacji budynku",
+    "AnswerC": "środek gaśniczy skuteczny przy gaszeniu pożarów z grupy B",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co oznacza symbol GBAM:",
+    "AnswerA": "samochód gaśniczy ze zbiornikiem z autopompą i motopompą",
+    "AnswerB": "samochód specjalny gaśniczy z autopompą",
+    "AnswerC": "samochód specjalny gaśniczy ze zbiornikiem autopompą i motopompą",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Hydrant wewnętrzny 52 posiada wydajność nominalną:",
+    "AnswerA": "1,0 dm³/s",
+    "AnswerB": "2,5 dm³/s",
+    "AnswerC": "3,0 dm³/s",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Z przewodów dymowych i spalinowych w budynkach opalanych paliwem płynnym należy usuwać zanieczyszczenia:",
+    "AnswerA": "co najmniej 2 razy w roku",
+    "AnswerB": "co najmniej 4 razy w roku",
+    "AnswerC": "co najmniej raz do roku",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Prezesem Zarządu Wojewódzkiego OSP woj. mazowieckiego jest:",
+    "AnswerA": "dh Zygmunt Politowski",
+    "AnswerB": "dh Stanisław Kwaśnik",
+    "AnswerC": "dh Witold Sojka",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Resuscytacja:",
+    "AnswerA": "śmierć kliniczna",
+    "AnswerB": "zespół czynności ratunkowych",
+    "AnswerC": "wstrząs powypadkowy",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Stacja paliw może być zlokalizowana od lasu w odległości:",
+    "AnswerA": "50 m",
+    "AnswerB": "20 m",
+    "AnswerC": "30 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ubranie ochronne typu ciężkiego chroni przed temperaturą:",
+    "AnswerA": "200 °C",
+    "AnswerB": "900 °C",
+    "AnswerC": "1400 °C",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Kromos to:",
+    "AnswerA": "środek gaśniczy",
+    "AnswerB": "środek ognioochronny",
+    "AnswerC": "środek zwilżający",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile butli z gazem płynnym o zawartości do 11 kg może być stosowanych jednocześnie w mieszkaniu?",
+    "AnswerA": "1",
+    "AnswerB": "2",
+    "AnswerC": "3",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Do gazów gaśniczych nie zalicza się:",
+    "AnswerA": "etan",
+    "AnswerB": "CO2",
+    "AnswerC": "azot",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co to jest strefa pożarowa?",
+    "AnswerA": "strefa objęta pożarem",
+    "AnswerB": "pomieszczenie zamykane drzwiami",
+    "AnswerC": "wydzielona pożarowo przestrzeń",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W przeciwpożarowy wyłącznik prądu należy wyposażać budynki:",
+    "AnswerA": "użyteczności publicznej",
+    "AnswerB": "których kubatura przekracza 1000 m3",
+    "AnswerC": "produkcyjno - magazynowe",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Eksplozymetr służy do:",
+    "AnswerA": "pomiaru stężeń gazu i par cieczy w powietrzu",
+    "AnswerB": "tłumienia fali detonacyjnej",
+    "AnswerC": "pomiaru temperatury zapłonu",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Minimalna głębokość przeciwpożarowego zbiornika wodnego w miejscu czerpania powinna wynosić:",
+    "AnswerA": "0,5 m",
+    "AnswerB": "1 m",
+    "AnswerC": "1,5 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Podaj obowiązującą jednostkę miary odporności ogniowej elementów budowlanych:",
+    "AnswerA": "godziny",
+    "AnswerB": "minuty",
+    "AnswerC": "nie stosuje się",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Drzwi powinny otwierać się na zewnątrz pomieszczeń, w których może przebywać jednocześnie:",
+    "AnswerA": "50 osób",
+    "AnswerB": "więcej niż 50 osób",
+    "AnswerC": "nie stawia się wymagań",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jak przed wojną nazywano kobiety działające w szeregach OSP?",
+    "AnswerA": "ochotniczki",
+    "AnswerB": "druhny",
+    "AnswerC": "samarytanki",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co oznacza skrót NRO?",
+    "AnswerA": "element budynku najlepiej rozprzestrzeniający ogień",
+    "AnswerB": "element budynku nie rozprzestrzeniający ognia",
+    "AnswerC": "nie stosuje się takiego skrótu",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ochotnicze Straże Pożarne są:",
+    "AnswerA": "stowarzyszeniami",
+    "AnswerB": "jednostkami organizacyjnymi PSP",
+    "AnswerC": "organami administracji rządowej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co ile lat w OSP odbywają się zebrania sprawozdawczo wyborcze (zebrania statutowe)?",
+    "AnswerA": "2 lata",
+    "AnswerB": "4 lata",
+    "AnswerC": "5 lat",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Najwyższą władzą w OSP jest:",
+    "AnswerA": "prezes",
+    "AnswerB": "zarząd",
+    "AnswerC": "walne zebranie",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ile butli z gazem propanem butanem o pojemności 11 kg może znajdować się w mieszkaniu?",
+    "AnswerA": "1",
+    "AnswerB": "2",
+    "AnswerC": "3",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaka jest minimalna pojemność przeciwpożarowego zbiornika wodnego?",
+    "AnswerA": "50 m3",
+    "AnswerB": "75 m3",
+    "AnswerC": "100 m3",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Szerokość wyjścia ewakuacyjnego nie może być mniejsza niż:",
+    "AnswerA": "0,8m",
+    "AnswerB": "0,9m",
+    "AnswerC": "0,6",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaki jest najwyższy stopień aspirancki?",
+    "AnswerA": "aspirant sztabowy",
+    "AnswerB": "starszy aspirant sztabowy",
+    "AnswerC": "starszy aspirant",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaki rodzaj drzewostanu jest najbardziej podatny na rozwój pożaru?",
+    "AnswerA": "iglasty",
+    "AnswerB": "liściasty",
+    "AnswerC": "mieszany",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Front działania prądu gaśniczego w obronie wynosi:",
+    "AnswerA": "20m",
+    "AnswerB": "10m",
+    "AnswerC": "25m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Środkiem uodporniającym drewno na działanie ognia jest:",
+    "AnswerA": "pyran",
+    "AnswerB": "środek zwilżający",
+    "AnswerC": "fobos",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Symbol SH-10 oznacza:",
+    "AnswerA": "samochód specjalny holowniczy o mocy 100KM",
+    "AnswerB": "samochód specjalny, podnośnik hydrauliczny o wysięgu 10m.",
+    "AnswerC": "samochód specjalny, podnośnik hydrauliczny o wysokości 10m. i udźwigu 10 ton",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Wycofanym środkiem gaśniczym z uwagi na ochronę środowiska jest:",
+    "AnswerA": "azot",
+    "AnswerB": "CO2",
+    "AnswerC": "halon",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Eksplozymetr to:",
+    "AnswerA": "urządzenie pomiaru siły eksplozji",
+    "AnswerB": "urządzenie wyłączające klapy odcinające w czasie wybuchu",
+    "AnswerC": "urządzenie do pomiaru stężeń wybuchowych",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy wolno napełniać gazem butle o masie 11kg na stacjach gazu płynnego?",
+    "AnswerA": "nie",
+    "AnswerB": "tak, jeżeli wykonana jest niezależna instalacja, nie przeznaczona do tankowania pojazdów",
+    "AnswerC": "tak",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pojemność zbiornika wodnego w samochodzie GCBA 5/24 wynosi:",
+    "AnswerA": "2400 l",
+    "AnswerB": "5000 l",
+    "AnswerC": "500 l",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Do wytwarzania i podawania piany średniej służy:",
+    "AnswerA": "wytwornica pianowa",
+    "AnswerB": "prądownica pianowa",
+    "AnswerC": "agregat pianowy",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Tryskacze służą do:",
+    "AnswerA": "szybkiego uruchomienia samochodu gaśniczego",
+    "AnswerB": "gaszenia pożaru",
+    "AnswerC": "wykrywania pożaru",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaka jest średnica nominalna hydrantów zewnętrznych podziemnych?",
+    "AnswerA": "80, 100",
+    "AnswerB": "100, 125",
+    "AnswerC": "80",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Zaczadzenie następuje wskutek działania:",
+    "AnswerA": "CO",
+    "AnswerB": "C0₂",
+    "AnswerC": "N₂",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W przeciwpożarowe wyłączniki prądu muszą być wyposażone obiekty:",
+    "AnswerA": "o powierzchni użytkowej ponad 1000m²",
+    "AnswerB": "o kubaturze powyżej 1000m³",
+    "AnswerC": "o wysokości powyżej 12m.",
+    "CorrectAnswer": 1
+  }, 
+  {
+    "QuestionTitle": "W jednostkach PSP jako podstawowy system zabezpieczenia dróg oddechowych stosuje się:",
+    "AnswerA": "aparaty tlenowe",
+    "AnswerB": "aparaty powietrzne nadciśnieniowe",
+    "AnswerC": "aparaty powietrzne podciśnieniowe",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W jakim stopniu jest obecny Komendant Wojewódzki Państwowej Straży Pożarnej w Warszawie?",
+    "AnswerA": "starszy brygadier",
+    "AnswerB": "nadbrygadier generał",
+    "AnswerC": "nadbrygadier",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Flame Control to środek:",
+    "AnswerA": "gaśniczy",
+    "AnswerB": "ogniochronny",
+    "AnswerC": "absorbent",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Prawo do wyznaczania w lesie miejsca na palenie ogniska ma:",
+    "AnswerA": "właściciel lub zarządca lasu",
+    "AnswerB": "Komendant Powiatowy lub Miejski PSP",
+    "AnswerC": "osoba dorosła, pod warunkiem zachowania środków ostrożności",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Do gazów gaśniczych można zaliczyć:",
+    "AnswerA": "azot",
+    "AnswerB": "etan",
+    "AnswerC": "metan",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pianą można gasić pożary klasy:",
+    "AnswerA": "klasy A i B",
+    "AnswerB": "klasy C i D",
+    "AnswerC": "tylko klasy C",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pożary metali lekkich zaliczają się do klasy pożarów:",
+    "AnswerA": "A",
+    "AnswerB": "B",
+    "AnswerC": "D",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Po haśle „Do akcji gotuj” przy zasilaniu samochodu z hydrantu, kierowca:",
+    "AnswerA": "pomaga w budowie linii głównej",
+    "AnswerB": "przeprowadza rozpoznanie wodne",
+    "AnswerC": "ustawia samochód w miejscu wskazanym przez dowódcę, a następnie uruchamia autopompę",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czego nie wolno gasić wodą?",
+    "AnswerA": "drewna",
+    "AnswerB": "węgla",
+    "AnswerC": "sodu",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaki narząd jest najbardziej wrażliwy na niedotlenienie?",
+    "AnswerA": "serce",
+    "AnswerB": "mózg",
+    "AnswerC": "nerki",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W mięśniu czwórgłowym uda znajduje się wbity pręt metalowy pierwsza pomoc polega na:",
+    "AnswerA": "szybkim usunięciu przedmiotu",
+    "AnswerB": "zabezpieczenie przedmiotu przed przemieszczeniem i opatrzenie rany",
+    "AnswerC": "zebraniu danych osobowych póki pacjent jest przytomny",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Wstrząs jest to:",
+    "AnswerA": "stan niedotlenienia mózgu",
+    "AnswerB": "zespół drgawek",
+    "AnswerC": "odruch człowieka na działanie prądu elektrycznego",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Krew tętniczą wypływająca z rany poznamy po:",
+    "AnswerA": "ciemnobrunatnej barwie",
+    "AnswerB": "spokojnym wypływie",
+    "AnswerC": "jasnoczerwonej barwie",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co oznacza znak gestowy „Prawa ręka podniesiona w górę”:",
+    "AnswerA": "woda stój",
+    "AnswerB": "woda naprzód",
+    "AnswerC": "uwaga",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Mostek przejazdowy służy do:",
+    "AnswerA": "umożliwienia przejazdu samochodu przez rzekę",
+    "AnswerB": "zabezpieczenia węży przed uszkodzeniem układanych na ulicach i drogach",
+    "AnswerC": "sprawiania drabiny pożarniczej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Dym biało-żółty wydziela się podczas palenia:",
+    "AnswerA": "siana",
+    "AnswerB": "celuloidu",
+    "AnswerC": "gumy",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Stosunek służbowy strażaka powstaje z dniem:",
+    "AnswerA": "powołania",
+    "AnswerB": "mianowania",
+    "AnswerC": "ślubowania",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podoficerom pełniącym służbę w jednostkach ratowniczo – gaśniczych kolejne stopnie służbowe nadaje:",
+    "AnswerA": "Komendant /Miejski/ Powiatowy PSP",
+    "AnswerB": "Komendant Wojewódzki PSP",
+    "AnswerC": "Komendant Główny PSP",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Wytwornica pianowa WP 2/75 służy do wytwarzania piany:",
+    "AnswerA": "średniej",
+    "AnswerB": "lekkiej",
+    "AnswerC": "ciężkiej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W jakim mieście na terenie woj. kujawsko pomorskiego znajduje się Szkoła Podoficerska?",
+    "AnswerA": "Toruń",
+    "AnswerB": "Włocławek",
+    "AnswerC": "Bydgoszcz",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Obowiązująca ustawa o ochronie przeciwpożarowej zostałą uchwalona:",
+    "AnswerA": "3 lipca 1980r.",
+    "AnswerB": "3 listopada 1992,",
+    "AnswerC": "24 sierpnia 1991r.",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co najmniej dwa wyjścia ewakuacyjne należy projektować z pomieszczeń, w których będzie przebywać jednocześnie ponad:",
+    "AnswerA": "20 osób",
+    "AnswerB": "50 osób",
+    "AnswerC": "75 osób",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Biblioteki zalicza się do kategorii zagrożenia ludzi ZL:",
+    "AnswerA": "ZL III",
+    "AnswerB": "ZL V",
+    "AnswerC": "ZL IV",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Liczba spienienia to:",
+    "AnswerA": "stosunek ilości piany do ilości środka pianotwórczego, z którego ta piana została wytworzona",
+    "AnswerB": "liczba pęcherzyków powietrza zawarta w 1 dm3 piany",
+    "AnswerC": "stosunek ilości wodnego roztworu środka pianotwórczego do wydajności piany",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Szerokość poziomych dróg ewakuacyjnych w budynku nie może być mniejsza niż:",
+    "AnswerA": "0,6m",
+    "AnswerB": "1,5m",
+    "AnswerC": "1,4m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Wysokość lokalnego obniżenia na drodze ewakuacyjnej w budynku nie może być mniejsza niż:",
+    "AnswerA": "1,8 m",
+    "AnswerB": "2 m",
+    "AnswerC": "2,2 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W jakim przypadku w budynku zaliczonym do ZL III należy stosować klatki schodowe obudowane i zamykane drzwiami?",
+    "AnswerA": "niskich",
+    "AnswerB": "we wszystkich",
+    "AnswerC": "średniowysokich",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Dojście ewakuacyjne to:",
+    "AnswerA": "długość drogi ewakuacyjnej od wyjścia z pomieszczenia na tę drogę do wyjścia do innej strefy pożarowej lub na zewnątrz budynku, którą mierzy się wzdłuż osi drogi ewakuacyjnej.",
+    "AnswerB": "odległość od najdalszego miejsca w pomieszczeniu, w którym może przebywać człowiek do wyjścia na drogę ewakuacyjną",
+    "AnswerC": "odległość od najdalszego miejsca w pomieszczeniu, w którym może przebywać człowiek do wyjścia na zewnątrz budynku",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Stosowanie łatwo zapalnych wykładzin podłogowych jest zabroniona w:",
+    "AnswerA": "w pomieszczeniach, w których może przebywać więcej niż 50 osób",
+    "AnswerB": "w pomieszczeniach okratowanych",
+    "AnswerC": "w budynkach zaliczonych do ZL III",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Dopuszczalna długość dojść ewakuacyjnych, przy jednym dojściu, w strefie pożarowej zagrożonej wybuchem wynosi:",
+    "AnswerA": "15 m",
+    "AnswerB": "10 m",
+    "AnswerC": "25 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Stosując w jednej strefie pożarowej stałe urządzenia wodne gaśnicze strefę tą można powiększyć o:",
+    "AnswerA": "50 %",
+    "AnswerB": "25%",
+    "AnswerC": "100%",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ściany oddzielające pomieszczenie zagrożone wybuchem od innych pomieszczeń powinny być odporne na parcie o wartości:",
+    "AnswerA": "25 kPa",
+    "AnswerB": "15 kPa",
+    "AnswerC": "35 kPa",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podaj sposób reanimacji prowadzonej przez 1 ratownika:",
+    "AnswerA": "15 na 4",
+    "AnswerB": "10 na 2",
+    "AnswerC": "15 na 2",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co to jest „Pyran”?",
+    "AnswerA": "środek ognioochronny",
+    "AnswerB": "szkło zbrojone",
+    "AnswerC": "szkło ognioodporne",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Kto powołuje Komendanta Głównego Państwowej straży Pożarnej?",
+    "AnswerA": "Prezydent RP na wniosek Ministra spraw Wewnętrznych i Administracji",
+    "AnswerB": "Prezes Rady Ministrów na wniosek Ministra spraw Wewnętrznych i Administracji",
+    "AnswerC": "Minister Spraw Wewnętrznych i Administracji",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Do jakiej klasy niebezpieczeństwa pożarowego zaliczamy benzynę?",
+    "AnswerA": "II",
+    "AnswerB": "I",
+    "AnswerC": "III",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Po jakim czasie najpóźniej ratownik ma rozpocząć czynności masażu serca i sztucznego oddechu od momentu zatrzymania się powyższych czynności?",
+    "AnswerA": "natychmiast",
+    "AnswerB": "1-2 minuty",
+    "AnswerC": "3-5 minut",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W 2002 r. pismo ZOSP RP „Strażak” będzie obchodziło jubileusz:",
+    "AnswerA": "120 lecie",
+    "AnswerB": "110 lecie",
+    "AnswerC": "100 lecie",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Acetylen posiada wzór chemiczny:",
+    "AnswerA": "CH₄",
+    "AnswerB": "C₂H₂",
+    "AnswerC": "C₂H₅OH",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Związek OSP został powołany w roku:",
+    "AnswerA": "1958",
+    "AnswerB": "1956",
+    "AnswerC": "1946",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W jakiej odległości od skraju toru kolejowego lub drogi publicznej jest zabronione pozostawianie chrustu i gałęzi?",
+    "AnswerA": "25m",
+    "AnswerB": "50m",
+    "AnswerC": "75m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pasy przeciwpożarowe w lasach należy utrzymywać w stanie zapewniającym ich użyteczność w okresie:",
+    "AnswerA": "tylko wiosennym i jesiennym",
+    "AnswerB": "tylko wiosennym i letnim",
+    "AnswerC": "przez cały rok",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ustawianie stert i stogów w stosunku do budynków wykonanych z materiałów palnych jest dozwolone w odległości co najmniej:",
+    "AnswerA": "20m",
+    "AnswerB": "15m",
+    "AnswerC": "30m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Nad pomieszczeniem zagrożonym wybuchem należy stosować:",
+    "AnswerA": "betonowy dach ciężki",
+    "AnswerB": "lekki dach",
+    "AnswerC": "dach wykonany z płyt żelbetowych dodatkowo wzmocniony stalową konstrukcją",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pomieszczenie zagrożone wybuchem w budynkach wielokondygnacyjnych należy sytuować na:",
+    "AnswerA": "najwyższej kondygnacji budynku",
+    "AnswerB": "najniższej kondygnacji",
+    "AnswerC": "bez znaczenia",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co oznacza pojęcie „resuscytacja oddechowo – krążeniowa”?",
+    "AnswerA": "odsysanie śluzu z górnych dróg oddechowych",
+    "AnswerB": "prowadzenie sztucznego oddychania",
+    "AnswerC": "prowadzenie sztucznego oddychania i zewnętrznego pośredniego masażu serca",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Niebezpieczeństwo związane z zakażeniem wirusem HIV, wystąpi przede wszystkim przy:",
+    "AnswerA": "obfitych wymiotach",
+    "AnswerB": "ślinotoku",
+    "AnswerC": "krawawieniach zewnętrzynch",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Transport poszkodowanego z urazem jamy brzusznej odbywa się w pozycji:",
+    "AnswerA": "tzw. bezpiecznej",
+    "AnswerB": "leżącej na wznak",
+    "AnswerC": "półsiedzącej",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Przy poparzeniach chemicznych oka, substancjami o stałej konsystencji, gwałtownie reagującymi z wodą, natychmiast:",
+    "AnswerA": "przykrywamy gałkę oczną jałowym opatrunkiem",
+    "AnswerB": "usuwamy substancję przy pomocy silnego strumienia wody",
+    "AnswerC": "usuwamy substancję przy pomocy pędzelka, chusteczki, lub miękkiego materiału po czym spłukujemy pozostałości strumieniem wody chłodząc przez 20-30 min",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Udar słoneczny to:",
+    "AnswerA": "przegrzanie organizmu pod wpływem promieni słonecznych",
+    "AnswerB": "podrażnienie tkanki mózgowej przez promienie ultrafioletowe słońca",
+    "AnswerC": "jedna z faz narastającego przegrzania organizmu przez słońce",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wynosi nominalna wydajność hydrantu wewnętrznego o średnicy 25 mm?",
+    "AnswerA": "1 l/s",
+    "AnswerB": "2,5 l/s",
+    "AnswerC": "25 l/s",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Podaj jaki jest zapas powietrza w butli o pojemności 11 litrów i ciśnieniu 200 bar:",
+    "AnswerA": "220 litrów",
+    "AnswerB": "2200 litrów",
+    "AnswerC": "5000 litrów",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W obecności poszkodowanego nieprzytomnego:",
+    "AnswerA": "nie wolno wypowiadać negatywnej oceny jego stanu",
+    "AnswerB": "wolno wypowiadać się negatywnie o jego stanie",
+    "AnswerC": "nie ma znaczenia czy wypowiadamy się negatywnie o jego stanie bo nieprzytomny i tak nas nie słyszy",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Poddawanie butli z gazami palnymi bezpośrednio działaniu ognia jest:",
+    "AnswerA": "zabronione w obiektach niezagrożonych wybuchem",
+    "AnswerB": "dozwolone w przypadku zachowania wszelkich możliwych środków ostrożności i zasad BHP",
+    "AnswerC": "zabronione",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Odporność ogniowa to jest cecha elementu budowlanego mierzona:",
+    "AnswerA": "w stopniach C",
+    "AnswerB": "w kg/m3",
+    "AnswerC": "w minutach",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Lekka woda to:",
+    "AnswerA": "wypełniacz poduszek niskociśnieniowych",
+    "AnswerB": "środek gaśniczy skuteczny przy gaszeniu pożarów grupy B",
+    "AnswerC": "roztwór piany lekkiej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Odległość od lasu odmierzacza paliw, studzienki spustowej, rury pomiarowej i przewodu oddechowego stałej stacji paliw powinna wynosić co najmniej:",
+    "AnswerA": "20m",
+    "AnswerB": "40m",
+    "AnswerC": "100m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Gaz propan butan jest:",
+    "AnswerA": "cięższy od powietrza",
+    "AnswerB": "lżejszy od powietrza",
+    "AnswerC": "ciężar właściwy jest taki sam",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ubranie ognioochronne typu ciężkiego chroni przed temperaturą:",
+    "AnswerA": "900 °C",
+    "AnswerB": "200 °C",
+    "AnswerC": "1200 °C",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Rolka zjazdowa to:",
+    "AnswerA": "urządzenie służące do transportu sprzętu ratownictwa technicznego",
+    "AnswerB": "nazwa sprzętu gaśniczego",
+    "AnswerC": "jeden z podstawowych przyrządów zjazdowych stosowanych w ratownictwie wysokościowym",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Gęstość gazu propan butan jest:",
+    "AnswerA": "większa od gęstości powietrza",
+    "AnswerB": "mniejsza od gęstości powietrza",
+    "AnswerC": "mają równą gęstość",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Substancja palna wydzielająca podczas spalania dym niebieskawy to:",
+    "AnswerA": "drewno",
+    "AnswerB": "magnez",
+    "AnswerC": "siarka",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W którym wieku i w jakim mieście w Polsce powstały pierwsze przepisy przeciwpożarowe?",
+    "AnswerA": "XIII wiek, Kraków",
+    "AnswerB": "XIV wiek, Kraków",
+    "AnswerC": "XIV wiek, Warszawa",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Chlor jest gazem o barwie:",
+    "AnswerA": "niebiesko - żółtej",
+    "AnswerB": "żółto - zielonej",
+    "AnswerC": "niebiesko - fioletowej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ze względu na rodzaj uzbrojenia na przewodach sieci wodociągowej stosuje się oznaczenia literowe tablic. Symbol „Z” oznacza:",
+    "AnswerA": "zasuwa lub zawór na podłączeniu do odbiorcy",
+    "AnswerB": "zawór na odgałęzieniu odwadniającym (spust)",
+    "AnswerC": "zasuwa na przewodzie wodociągowym przesyłowym lub rozdzielczym",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaki typ drzewostanu jest najbardziej podatny na rozwój pożaru?",
+    "AnswerA": "iglasty",
+    "AnswerB": "liściasty",
+    "AnswerC": "mieszany",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W latach 1916 – 1918 najwięcej strażaków walczyło o niepodległość w organizacjach:",
+    "AnswerA": "Legionach Polskich",
+    "AnswerB": "Polskiej Organizacji Wojskowej",
+    "AnswerC": "Polskich siłach zbrojnych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pojazd ratowniczo – gaśniczy 014R posiada układ jezdno - napędowy:",
+    "AnswerA": "4x2",
+    "AnswerB": "4x4",
+    "AnswerC": "6x6",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaka powinna być odległość hydrantu zewnętrznego od krawędzi drogi lub ulicy?",
+    "AnswerA": "nie powinna przekraczać 2 m.",
+    "AnswerB": "nie powinna przekraczać 5 m",
+    "AnswerC": "nie powinna przekraczać 15 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pirometrem nazywamy:",
+    "AnswerA": "urządzenie służące do wykrywania substancji toksycznych",
+    "AnswerB": "urządzenie sejsmiczno akustyczne do wykrywania i lokalizacji zasypanych ludzi",
+    "AnswerC": "urządzenie służące do zdalnego bezdotykowego pomiaru temperatury",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Samochód gaśniczy GBA 2,5/16 typ 005 posiada:",
+    "AnswerA": "zbiornik na wodę o pojemności 1600 l i działko o wyd. wody 2500 l/min",
+    "AnswerB": "zbiornik na wodę o pojemności 2500 l i działko o wyd. wody 250 l/min",
+    "AnswerC": "zbiornik na środek pianotwórczy o pojemności 250 l i działko o wydajności wody 1600 l/min",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W skład sprzętu podnoszącego i rozpierającego wchodzą takie urządzenia jak:",
+    "AnswerA": "siłowniki hydrauliczne, sprzęt pneumatyczny, podnośniki siłowe",
+    "AnswerB": "sprzęt oświetleniowy, sprzęt pływający i nurkowy,",
+    "AnswerC": "sprzęt alpinistyczny, dźwigi samochodowe",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W jakiej najmniejszej odległości od okna w mieszkaniu można ustawić kuchenkę gazową?",
+    "AnswerA": "0,5 m",
+    "AnswerB": "1 m",
+    "AnswerC": "1,2 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Klasa odporności pożarowej podziemnej części budynku nie może być niższa niż:",
+    "AnswerA": "C",
+    "AnswerB": "D",
+    "AnswerC": "E",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Amfibia to:",
+    "AnswerA": "kołowy lub gąsienicowy pojazd mechaniczny przystosowany do poruszania się na lądzie i na wodzie w szczególności podczas akcji powodziowej",
+    "AnswerB": "kołowy lub gąsienicowy pojazd mechaniczny przystosowany do poruszania się w czasie akcji gaśniczej w lesie",
+    "AnswerC": "kołowy lub gąsienicowy pojazd mechaniczny przystosowany do poruszania się w czasie akcji ekologicznych do usuwania skutków pożaru lasu",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Prezesem ZG ZOSP RP jest:",
+    "AnswerA": "druh Waldemar Pawlak",
+    "AnswerB": "druh Stanisław Kwaśnik",
+    "AnswerC": "druh Zdzisław Dąbrowski",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Kto powołuje Komendanta Głównego PSP?",
+    "AnswerA": "Prezydent RP na wniosek Ministra Spraw Wewnętrznych i Administracji",
+    "AnswerB": "Prezes Rady Ministrów na wniosek Ministra Spraw Wewnętrznych i Administracji",
+    "AnswerC": "Minister Spraw Wewnętrznych i Administracji",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W przeciwpożarowe wyłączniki prądu muszą być wyposażone obiekty:",
+    "AnswerA": "o powierzchni użytkowej ponad 1000m²",
+    "AnswerB": "o kubaturze powyżej 1000m³",
+    "AnswerC": "o wysokości powyżej 12m.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Acetylen może być składowany w piwnicach:",
+    "AnswerA": "tak, jeżeli w piwnicy występuje wentylacja mechaniczna,",
+    "AnswerB": "tak, jeżeli w piwnicy występuje wentylacja mechaniczna i pozytywną opinię wydał właściwy miejscowo Komendant Miejski (Powiatowy)",
+    "AnswerC": "nie może być składowany w piwnicach",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaki czynnik roboczy powoduje działanie nożyc i rozpieraczy firmy LUKAS?",
+    "AnswerA": "powietrze",
+    "AnswerB": "olej hydrauliczny",
+    "AnswerC": "przekładnia mechaniczna",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy członkowie OSP mogą wykonywać czynności kontrolno – rozpoznawcze?",
+    "AnswerA": "tak, za zgodą komendanta wojewódzkiego PSP",
+    "AnswerB": "tak, za zgodą komendanta głównego PSP",
+    "AnswerC": "nie mogą",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "O zamiarze i terminie przeprowadzenia czynności kontrolno - rozpoznawczych z zakresu ochrony przeciwpożarowej zawiadamia się kontrolowanego:",
+    "AnswerA": "7 dni przed rozpoczęciem kontroli",
+    "AnswerB": "14 dni przed rozpoczęciem kontroli",
+    "AnswerC": "nie ma określonego terminu zawiadamiania",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Książkę obiektu budowlanego powinny posiadać:",
+    "AnswerA": "tylko obiekty tymczasowe",
+    "AnswerB": "wszystkie obiekty budowlane",
+    "AnswerC": "tylko obiekty zagrożone wybuchem lub te, w których występuje zagrożenie życia ludzi",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Który z wymienionych obiektów wymaga uzgodnienia projektu budowlanego z rzeczoznawcą ds. zabezpieczeń przeciwpożarowych?",
+    "AnswerA": "plac składowy lub wiata o powierzchni 800 m2",
+    "AnswerB": "jednorodzinny budynek mieszkalny",
+    "AnswerC": "budynek zaliczony do ZL II",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Po haśle „Do akcji gotuj” przy zasilaniu samochodu z hydrantu, kierowca:",
+    "AnswerA": "pomaga w budowie linii głównej",
+    "AnswerB": "przeprowadza rozpoznanie wodne",
+    "AnswerC": "ustawia samochód w miejscu wskazanym przez dowódcę, a następnie uruchamia autopompę",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co oznacza znak gestowy „prawa ręka podniesiona w górę”?",
+    "AnswerA": "uwaga",
+    "AnswerB": "woda stój",
+    "AnswerC": "woda na przód",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jakie ciśnienie nominalne powinno występować w hydrancie zewnętrznym przy pobieraniu z niego wody za pomocą pomp pożarniczych?",
+    "AnswerA": "0,1 MPa",
+    "AnswerB": "0,05 MPa",
+    "AnswerC": "0,25 MPa",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W jakim czasie rota II powinna zbudować linię zasilającą aby była nieprzerwana praca autopompy przy podawaniu wody z działka z samochodu GBA 2,5/16?",
+    "AnswerA": "około 29 sek.",
+    "AnswerB": "około 90 sek.",
+    "AnswerC": "około 180 sek",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Masaż zewnętrzny serca to uciśnięcie mostka dorosłego na głębokość:",
+    "AnswerA": "4 – 5 cm",
+    "AnswerB": "1 – 2 cm",
+    "AnswerC": "3 – 7 cm",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaki czynnik decyduje o stopniu zagrożenia pożarowego lasu?",
+    "AnswerA": "wilgotność mchów i porostów oraz poszycia gleby",
+    "AnswerB": "wilgotność drzew oraz poszycia gleby",
+    "AnswerC": "wilgotność ścioły i powietrza",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Centralnym organem administracji państwowej w sprawach ochrony przeciwpożarowej jest:",
+    "AnswerA": "Prezes Rady Ministrów",
+    "AnswerB": "Minister Spraw Wewnętrznych i Administracji",
+    "AnswerC": "Prezydent",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Mostek przejazdowy służy do:",
+    "AnswerA": "umożliwienia przejazdu samochodu przez rzekę",
+    "AnswerB": "zabezpieczenia węży przed uszkodzeniem układanych na ulicach i drogach",
+    "AnswerC": "sprawiania drabiny pożarniczej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W którym miejscu występuje najwyższa temperatura płomienia?",
+    "AnswerA": "na obrzeżach płomienia",
+    "AnswerB": "na szczycie płomienia",
+    "AnswerC": "we wnętrzu płomienia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Środki zwilżające są to środki, które:",
+    "AnswerA": "zwiększają napięcie powierzchniowe wody",
+    "AnswerB": "zmniejszają napięcie powierzchniowe wody",
+    "AnswerC": "obniżają temperaturę wody w celu zwiększenia jej właściwości gaśniczych",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ekoperl to:",
+    "AnswerA": "nazwa pompy do ratownictwa chemiczno - ekologicznego",
+    "AnswerB": "sorbent - środek wążący substancje niebezpieczne",
+    "AnswerC": "urządzenie do szybkiego mierzenia ciśnienia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przedłużająca się inhalacja organizmu człowieka czystym tlenem przy ciśnieniu atmosferycznym może prowadzić do:",
+    "AnswerA": "obrzęku płuc",
+    "AnswerB": "nie ma wpływu na organizm człowieka",
+    "AnswerC": "zawału",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czujnik bezruchu to:",
+    "AnswerA": "sprzęt ratowniczy przeznaczony dla poszkodowanych oczekujących na lekarza w bezruchu na noszach",
+    "AnswerB": "sprzęt osobisty ratownika służący do jego bezpieczeństwa w warunkach działań ratowniczych",
+    "AnswerC": "czujnik służący do określenia czy dany pojazd ratowniczy jest w ruchu w czasie akcji ratowniczo-gaśniczej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Oświetlenie awaryjne obejmuje:",
+    "AnswerA": "oświetlenie bezpieczeństwa, ewakuacyjne, kierunkowe i przeszkodowe",
+    "AnswerB": "oświetlenie bezpieczeństwa i ewakuacyjne",
+    "AnswerC": "oświetlenie kierunkowe i przeszkodowe",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Gdzie sprawdzamy tętno u niemowlęcia?",
+    "AnswerA": "na tętnicy przedramiennej",
+    "AnswerB": "na tętnicy szyjnej",
+    "AnswerC": "w pachwinach",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Klasa odporności pożarowej dotyczy:",
+    "AnswerA": "budynku",
+    "AnswerB": "elementów budynku",
+    "AnswerC": "tylko oddzieleń przeciwpożarowych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Odległość hydrantu zewnętrznego od ścian budynku powinna wynosić:",
+    "AnswerA": "2 – 10 m",
+    "AnswerB": "najmniej 5 m",
+    "AnswerC": "do 5 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Minimalna odległość między butlą z gazem propan – butan a urządzeniem grzewczym powinna wynosić:",
+    "AnswerA": "1,5 m",
+    "AnswerB": "2 m",
+    "AnswerC": "1,8 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Samochód GBA2,5/16 typ 005 posiada:",
+    "AnswerA": "urządzenie szybkiego natarcia W – 52",
+    "AnswerB": "urządzenie szybkiego natarcia W – 25",
+    "AnswerC": "nie posiada urządzenia szybkiego natarcia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Co stanie się z płomieniem świecy, jeżeli w pomieszczeniu zwiększymy stężenie tlenu?",
+    "AnswerA": "płomień skróci się i rozszerzy",
+    "AnswerB": "płomień wydłuży się",
+    "AnswerC": "płomień zgaśnie",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Masowa szybkość spalania odnosi się do:",
+    "AnswerA": "materiałów stałych",
+    "AnswerB": "cieczy",
+    "AnswerC": "gazów",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Obowiązująca ustawa „prawo ochrony środowiska” została uchwalona:",
+    "AnswerA": "27 kwietnia 2001r.",
+    "AnswerB": "3 listopada 1999r.",
+    "AnswerC": "24 sierpnia 1991r.",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Funkcjonariusz PSP wykonujący czynności kontrolno – rozpoznawcze może w przypadkach uzasadnionych ukarać kontrolowanego poprzez:",
+    "AnswerA": "skierowanie wniosku do kolegium ds. wykroczeń",
+    "AnswerB": "skierowanie wniosku do Sądu Grodzkiego",
+    "AnswerC": "skierowanie wniosku na Policję",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaki gaz o właściwościach wybuchowych wydziela się podczas ładowania akumulatorów zasadowych?",
+    "AnswerA": "metan",
+    "AnswerB": "wodór",
+    "AnswerC": "nie wydziela się żaden gaz",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Rurka wskaźnikowa w ratownictwie chemicznym stosowana jest w celu:",
+    "AnswerA": "ustalenia ilości substancji niebezpiecznej",
+    "AnswerB": "ustalenia rodzaju substancji niebezpiecznej",
+    "AnswerC": "ustalenia ilości zebranej substancji niebezpiecznej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Procesy spalania w atmosferze wzbogaconej w tlen przebiegają inaczej niż zwykle. Wzrost koncentracji tlenu w obszarze spalania powoduje:",
+    "AnswerA": "zwiększenie minimalnej energii zapłonu",
+    "AnswerB": "podwyższenie górnych granic wybuchowości",
+    "AnswerC": "obniżenie górnych granic wybuchowości",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Chloropikryna jest substancją:",
+    "AnswerA": "cieczą żrącą o błękitnej barwie",
+    "AnswerB": "cieczą palną, bezbarwną o duszącym zapachu",
+    "AnswerC": "cieczą niepalną, bezbarwną, ogólnotoksyczną, o ostrym i duszącym zapachu",
+    "CorrectAnswer": 2
+  },
+  { 
+    "QuestionTitle": "Czy pod kładką dla pieszych o konstrukcji stalowej można garażować samochody osobowe?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli wysokość pomiędzy elementami nośnymi kładki a poziomem terenu wynosi co najmniej 4 m.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaki rodzaj ochrony odgromowej należy zastosować w przypadku budynku szpitala psychiatrycznego?",
+    "AnswerA": "ochronę podstawową",
+    "AnswerB": "ochronę obostrzoną",
+    "AnswerC": "ochronę specjalną",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy blaszane pokrycie dachu może być elementem instalacji odgromowej?",
+    "AnswerA": "nie, bo musi być wykonane z prętu stalowego ocynkowanego",
+    "AnswerB": "tak, pod warunkiem zastosowania blachy aluminiowej",
+    "AnswerC": "tak, pod warunkiem zastosowania blachy stalowej ocynkowanej nie cieńszej niż 0,5 mm",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Kto napisał słowa hymnu ZOSP RP?",
+    "AnswerA": "Jerzy Skokowski",
+    "AnswerB": "Jan Stokowski",
+    "AnswerC": "Jakub Szela",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy klapy dymowe w dachach i stropodachach mogą być wykonane z materiałów łatwopalnych?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, po uprzedniej impregnacji",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Klatki schodowe obudowane i zamykane drzwiami należy stosować w budynkach produkcyjnych i magazynowych:",
+    "AnswerA": "wysokościowym",
+    "AnswerB": "średniowysokich",
+    "AnswerC": "wysokich",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Powierzchnia strefy pożarowej w garażu zamkniętym – podziemnym nie może przekraczać:",
+    "AnswerA": "1000m²",
+    "AnswerB": "500m²",
+    "AnswerC": "2500m²",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Kto w 1184 roku przekazał relikwie św. Floriana do Krakowa?",
+    "AnswerA": "Papież Lucjusz III",
+    "AnswerB": "Biskup Krakowski Gedko",
+    "AnswerC": "Stanisław Arczyński",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jednym z najwybitniejszych członków Korpusu Technicznego Pożarnictwa był:",
+    "AnswerA": "płk. Józef Lewandowski",
+    "AnswerB": "mgr Aleksander Piotrowski",
+    "AnswerC": "inż. Józef Tuliszkowski",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku Centralne Muzeum Pożarnictwa w Mysłowicach otrzymało swój statut?",
+    "AnswerA": "w styczniu 1982 roku",
+    "AnswerB": "w lutym 1993 roku",
+    "AnswerC": "w sierpniu 1975 roku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Geometryczna wysokość podnoszenia to:",
+    "AnswerA": "suma geometrycznej wysokości ssania i tłoczenia, wyrażona w metrach",
+    "AnswerB": "suma geometrycznej wysokości ssania i tłoczenia wyrażonej w litrach",
+    "AnswerC": "suma geometrycznej wysokości ssania wyrażona w metrach",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "II stopień oparzenia to:",
+    "AnswerA": "oparzenie, którego objawem jest zaczerwienienie skóry (rumień), obrzęk i uczucie pieczenia",
+    "AnswerB": "oparzenie, którego objawem jest pojawienie się na zaczerwienionej i obrzękniętej skórze pęcherzy z żółtawym płynem surowiczym, towarzyszy temu ostry ból",
+    "AnswerC": "oparzenie, które cechuje się martwicą całej grubości skóry, a także uszkodzeniem tkanek położonych głębiej (mięśnie, ścięgna), skrajną postacią oparzenia jest zwęglenie tkanek",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Główny sąd Honorowy OSP RP składa się z:",
+    "AnswerA": "od 1 do 6 członków",
+    "AnswerB": "od 7 do 11 członków",
+    "AnswerC": "od 12 do 16 członków",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W 1982 r. pismo ZOSP RP „Strażak” obchodziło jubileusz :",
+    "AnswerA": "120 lecie",
+    "AnswerB": "110 lecie",
+    "AnswerC": "100 lecie",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jaki wzór chemiczny ma fenol?",
+    "AnswerA": "C₆H₅OH",
+    "AnswerB": "CH₂O",
+    "AnswerC": "CH₃CL",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W którym roku ZOSP będzie obchodził 55 – lecie?",
+    "AnswerA": "2014r",
+    "AnswerB": "2011r.",
+    "AnswerC": "2012r.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Budynki wysokościowe to budynki o wysokości:",
+    "AnswerA": "powyżej 55 m",
+    "AnswerB": "powyżej 75 m",
+    "AnswerC": "powyżej 25 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Zespół podstawowy w ratownictwie medycznym stanowi:",
+    "AnswerA": "ratownik medyczny (paramedyk) i dwóch ratowników przedmedycznych (techników medycznych)",
+    "AnswerB": "lekarz, ratownik medyczny i dwóch ratowników przedmedycznych",
+    "AnswerC": "dwóch ratowników przedmedycznych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ciężar w gotowości bojowej pojazdu pożarniczego GCBA 6/32 wynosi:",
+    "AnswerA": "10 580 kg",
+    "AnswerB": "12 620 kg",
+    "AnswerC": "15 400 kg",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co zawiera w swoim wyposażeniu zestaw ratunkowy R1 PSP?",
+    "AnswerA": "respirator",
+    "AnswerB": "worek samorozprężalny, rezerwuar tlenu i przewód łączący",
+    "AnswerC": "komplet masek twarzowych połączonych z respiratorem",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wynosi czas ochronnego działania aparatu powietrznego AP 3 przy zużyciu 30 l/min?",
+    "AnswerA": "53 min",
+    "AnswerB": "38 min",
+    "AnswerC": "60 min",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Toporek strażacki ma masę:",
+    "AnswerA": "1,25 kg",
+    "AnswerB": "1,5 kg",
+    "AnswerC": "1,7 kg",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Żar żółtoczerwony ma temperaturę:",
+    "AnswerA": "850 - 950 °C",
+    "AnswerB": "1050 - 1150 °C",
+    "AnswerC": "1250 - 1350 °C",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Gazy tworzące mieszaniny wybuchowe z powietrzem przy stężeniu do 10% objętości to:",
+    "AnswerA": "acetylen, wodór",
+    "AnswerB": "amoniak, argon",
+    "AnswerC": "tlen, sprężone powietrze",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W którym roku skonstruowano I krajowy samochód pożarniczy star A 20 GBM 2/8?",
+    "AnswerA": "1937r.",
+    "AnswerB": "1947r.",
+    "AnswerC": "1953r.",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Przewody elektryczne można ciąć nożycami z izolowanymi rękojeściami lub użyć do tego siekiery z suchym, drewnianym trzonkiem gdy napięcie w przewodzie nie przekracza:",
+    "AnswerA": "220 V",
+    "AnswerB": "300 V",
+    "AnswerC": "500 V",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ile wynosi nominalna wydajność hydrantu wewnętrznego o średnicy 52 mm?",
+    "AnswerA": "1 dm³/s",
+    "AnswerB": "2,5 dm³/s",
+    "AnswerC": "3,5 dm³/s",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na jakiej wysokości powinny być instalowane zawory hydrauliczne przy hydrantach wewnętrznych przeciwpożarowych?",
+    "AnswerA": "1,0 m (±0,05 m)",
+    "AnswerB": "1,35 m (±0,05 m)",
+    "AnswerC": "1,4 m (±0,05 m)",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy w obiektach kultu religijnego (kościoły, cerkwie) wymagane jest stosowanie znaków ewakuacyjnych?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli powierzchnia użytkowa obiektu przekracza 500 m2",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W ilu zbiornikach może być zgromadzona woda przeznaczona do gaszenia kompleksu leśnego o powierzchni przekraczającej 10 ha?",
+    "AnswerA": "tylko w jednym",
+    "AnswerB": "nie ogranicza się",
+    "AnswerC": "najwyżej w dwóch",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Do samochodów pożarniczych średnich zalicza się samochody o masie całkowitej:",
+    "AnswerA": "od 3,5 do 12 ton",
+    "AnswerB": "od 2 do 3,5 ton",
+    "AnswerC": "od 12 do 15 ton",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Lekka woda to:",
+    "AnswerA": "wypełniacz poduszek niskociśnieniowych",
+    "AnswerB": "środek gaśniczy skuteczny przy gaszeniu pożarów grupy B i A sypkich",
+    "AnswerC": "roztwór piany lekkiej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wynosi minimalna głębokość przeciwpożarowego zbiornika wodnego?",
+    "AnswerA": "0,5 m",
+    "AnswerB": "0,7 m",
+    "AnswerC": "1,2 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Państwowa Straż Pożarna została powołana z dniem:",
+    "AnswerA": "1 sierpnia 1992r.",
+    "AnswerB": "1 lipca 1992r.",
+    "AnswerC": "1 lipca 1991r.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Do krajowego Systemu Ratowniczo – Gaśniczego może zostać włączona jednostka, która posiada:",
+    "AnswerA": "co najmniej dwa średnie lub ciężkie samochody pożarnicze",
+    "AnswerB": "jeden samochód pożarniczy średni lub ciężki",
+    "AnswerC": "dwie motopompy M 8/8",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaki czynnik roboczy powoduje działanie rozpieraczy i nożyc firmy LUKAS:",
+    "AnswerA": "powietrze",
+    "AnswerB": "przekładania mechaniczna",
+    "AnswerC": "olej hydrauliczny",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Rolka zjazdowa to:",
+    "AnswerA": "urządzenie służące do transportu sprzętu ratownictwa technicznego",
+    "AnswerB": "nazwa sprzętu gaśniczego",
+    "AnswerC": "jeden z podstawowych przyrządów zjazdowych stosowanych w ratownictwie wysokościowym",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Oświetlenie awaryjne obejmuje:",
+    "AnswerA": "oświetlenie bezpieczeństwa i ewakuacyjne",
+    "AnswerB": "oświetlenie bezpieczeństwa, ewakuacyjne, kierunkowe i przeszkodowe,",
+    "AnswerC": "tylko oświetlenie ewakuacyjne",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Który z wielkich Polaków ogłosił „Porządek Ogniowy” będący pierwszym regulaminem gaszenia pożarów:",
+    "AnswerA": "kanclerz wielki koronny Jan Łaski - (16 wiek)",
+    "AnswerB": "marszałek izby poselskiej Jerzy Lubomirski – (17 wiek)",
+    "AnswerC": "marszałek Stanisław Lubomirski - (18 wiek)",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Budynki IN to:",
+    "AnswerA": "budynki produkcyjne i magazynowe",
+    "AnswerB": "inwentarskie służące do hodowli inwentarza",
+    "AnswerC": "nie ma takiego określenia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Masa całkowita pojazdu ratowniczo gaśniczego Jelcz 022 wynosi:",
+    "AnswerA": "17500kg",
+    "AnswerB": "12300kg",
+    "AnswerC": "15790kg",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W którym wieku i w jakim mieście w Polsce powstały pierwsze przepisy przeciwpożarowe:",
+    "AnswerA": "XIII wiek, Kraków",
+    "AnswerB": "XIV wiek, Kraków",
+    "AnswerC": "XIV wiek, Warszawa",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Klasa odpornosci pożarowej dotyczy:",
+    "AnswerA": "elementów budynku",
+    "AnswerB": "budynku",
+    "AnswerC": "tylko oddzieleń przeciwpożarowych",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Budynki szkolne najczęściej zalicza się do kategorii zagrożenia życia ludzi:",
+    "AnswerA": "ZL II",
+    "AnswerB": "ZL III",
+    "AnswerC": "ZL IV",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Chlor jest gazem o barwie:",
+    "AnswerA": "niebiesko - zóltej",
+    "AnswerB": "zólto - zielonej",
+    "AnswerC": "niebiesko - fioletowej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W obowiązujących przepisach techniczno – budowlanych ustanowiono następującą ilość klas odporności pożarowej budynków lub ich części:",
+    "AnswerA": "6",
+    "AnswerB": "7",
+    "AnswerC": "5",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Minimalna odległość między butlą z gazem propan - butan a urządzeniem grzewczym powinna wynosić:",
+    "AnswerA": "1,8 m",
+    "AnswerB": "2 m",
+    "AnswerC": "1,5 m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co zyskujemy przy szeregowym łączeniu pomp?",
+    "AnswerA": "sumę ciśnień wszystkich pomp",
+    "AnswerB": "sumę wydatków wszystkich pomp",
+    "AnswerC": "sumę ciśnień i wydatków wszystkich pomp",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Front działania prądu gaśniczego w obronie wynosi:",
+    "AnswerA": "10m",
+    "AnswerB": "20m",
+    "AnswerC": "25m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jak nazywa się popularnie Kamizelka Ratowniczo - wypornościowa (KRW) stosowana podczas nurkowania?",
+    "AnswerA": "jacket",
+    "AnswerB": "dry suit",
+    "AnswerC": "idrodyna",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co oznacza znak gestowy „Prawa ręka podniesiona w górę”:",
+    "AnswerA": "woda na przód",
+    "AnswerB": "woda stój",
+    "AnswerC": "uwaga",
+    "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Pożar lasu o powierzchni 6 ha zakwalifikowany zostanie jako:",
+    "AnswerA": "pożar średni",
+    "AnswerB": "pożar mały",
+    "AnswerC": "pożar duży",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile wynosi najmniejsza czynna powierzchnia klapy dymowej ?",
+    "AnswerA": "0,6m²",
+    "AnswerB": "0,8m²",
+    "AnswerC": "1,0m²",
+    "CorrectAnswer": 1
+  },
+    {
+    "QuestionTitle": "W jakim czasie rota II powinna zbudować linię zasilającą aby była nieprzerwana praca autopompy przy podawaniu wody z działka z samochodu GBA 2,5/16:",
+    "AnswerA": "około 29 sek.",
+    "AnswerB": "około 90 sek.",
+    "AnswerC": "około 180 sek.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podstawowym mechanizmem gaśniczym proszku jest działanie:",
+    "AnswerA": "chłodzące",
+    "AnswerB": "tłumiące",
+    "AnswerC": "izolujące",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Najwcześniej w Europie samochody pojawiły się w strażach pożarnych:",
+    "AnswerA": "Berlina i Londynu",
+    "AnswerB": "Paryża i Hanoweru",
+    "AnswerC": "Wiednia i Amsterdamu",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Gdzie sprawdzamy tętno u niemowlęcia :",
+    "AnswerA": "na tętnicy przedramiennej",
+    "AnswerB": "na tętnicy szyjnej",
+    "AnswerC": "w pachwinach",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Okładziny sufitów oraz sufity podwieszane w budynkach z wyjątkiem mieszkań należy wykonywać z:",
+    "AnswerA": "z materiałów nierozprzestrzeniających ognia",
+    "AnswerB": "z materiałów trudnozapalnych i nierozprzestrzeniających ognia,",
+    "AnswerC": "z materiałów niepalnych i niezapalnych, niekapiących i nieodpadających pod wpływem ognia",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym miejscu występuje najwyższa temperatura płomienia:",
+    "AnswerA": "na szczycie płomienia",
+    "AnswerB": "na obrzeżach płomienia",
+    "AnswerC": "we wnętrzu płomienia",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co to jest wstrząs pourazowy?",
+    "AnswerA": "uderzenie po upadku",
+    "AnswerB": "reakcja organizmu na uraz",
+    "AnswerC": "utrata przytomności",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podaj obowiązującą jednostkę gęstości obciążenia ogniowego:",
+    "AnswerA": "J/m²",
+    "AnswerB": "MJ/m³",
+    "AnswerC": "MJ/m²",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ekoperl to:",
+    "AnswerA": "sorbent – środek wiążący substancje niebezpieczne",
+    "AnswerB": "nazwa pompy do ratownictwa chemiczno – ekologicznego,",
+    "AnswerC": "urządzenie do szybkiego mierzenia ciśnienia",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czujnik bezruchu to:",
+    "AnswerA": "sprzęt ratowniczy przeznaczony dla poszkodowanych oczekujących na lekarza w bezruchu na noszach",
+    "AnswerB": "sprzęt osobisty ratownika służący do jego bezpieczeństwa w warunkach działań ratowniczych",
+    "AnswerC": "czujnik służący do określenia czy dany pojazd ratowniczy jest w ruchu w czasie akcji ratowniczo – gaśniczej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W którym roku w Polsce rozpoczęto produkcję motopomp?",
+    "AnswerA": "1933",
+    "AnswerB": "1927",
+    "AnswerC": "1929",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Poniższy znak przedstawia: (na znaku jest napisane sprzęt pożarniczy i jest na nim biała kopuła na czerwonym tle) (nie da się zdjęć do konsoli dać)",
+    "AnswerA": "przycisk pożarowy uruchamiający alarm pożarowy",
+    "AnswerB": "przycisk pożarowy sterujący urządzeniami gaśniczymi",
+    "AnswerC": "zestaw sprzętu pożarniczego",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W instalację odgromową podstawową muszą być wyposażone :",
+    "AnswerA": "budynki występujące w zwartej zabudowie o wysokości powyżej 20m i powierzchni ponad 250m2",
+    "AnswerB": "budynki przeznaczone dla ludzi o ograniczonej zdolności poruszania się,",
+    "AnswerC": "hale o wymiarach przekraczających 15 x 15m, mające żelbetowe lub stalowe wewnętrzne słupy wsporcze",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Co oznacza skrót WSKR?",
+    "AnswerA": "Wojewódzkie Stanowisko Koordynacji Ratownictwa",
+    "AnswerB": "Wojskowy Sztab Kryzysowo - Ratowniczy",
+    "AnswerC": "Wojewódzka Stacja Krwiodawstwa Ratunkowego",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Samochód GBA2,5/16 typ 005 posiada:",
+    "AnswerA": "urządzenie szybkiego natarcia W - 25",
+    "AnswerB": "urządzenie szybkiego natarcia W - 52",
+    "AnswerC": "nie posiada urządzenia szybkiego natarcia",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co uzyskujemy w konfuzorze?",
+    "AnswerA": "zmniejszenie prędkości przepływu",
+    "AnswerB": "zwiększenie prędkości przepływu",
+    "AnswerC": "zmniejszenie wydatku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Substancja palna wydzielająca podczas spalania dym niebieskawy to:",
+    "AnswerA": "drewno",
+    "AnswerB": "magnez",
+    "AnswerC": "siarka",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na terenie, jakiego województwa zorganizowano w terminie od 30 września do 7 października 1945r. pierwszy w Polsce Ludowej „Tydzień Obrony Przeciwpożarowej”?",
+    "AnswerA": "warszawskiego",
+    "AnswerB": "krakowskiego",
+    "AnswerC": "lubuskiego",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Płukanie uszkodzonej skóry wodą (20-30min) stosujemy w przypadku stwierdzenia: -",
+    "AnswerA": "wyłącznie oparzeń termicznych",
+    "AnswerB": "silnego krwawienia",
+    "AnswerC": "oparzeń termicznych i chemicznych",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Hydrant wewnętrzny 52 posiada wydajność nominalną :",
+    "AnswerA": "2,5 dm³/s",
+    "AnswerB": "3,0 dm³/s",
+    "AnswerC": "1,5 dm³/s",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Compakt to:",
+    "AnswerA": "nazwa pompy do ratownictwa chemiczno – ekologicznego",
+    "AnswerB": "podstawowy sprzęt wysokościowy",
+    "AnswerC": "sorbent – środek wiążący substancje niebezpieczne",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Chloropikryna jest substancją:",
+    "AnswerA": "cieczą żrącą o błękitnej barwie",
+    "AnswerB": "cieczą palną, bezbarwną o duszącym zapachu",
+    "AnswerC": "cieczą niepalną, bezbarwną, ogólnotoksyczną, o ostrym i duszącym zapachu",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Piana gaśnicza o liczbie spienienia Ls=40, jest to piana :",
+    "AnswerA": "lekka",
+    "AnswerB": "ciężka",
+    "AnswerC": "średnia",
+    "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Kto napisał słowa hymnu ZOSP RP?",
+  "AnswerA": "Jerzy Skokowski",
+  "AnswerB": "Jan Stokowski",
+  "AnswerC": "Jakub Szela",
+  "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Budynki zaliczone do kategorii zagrożenia ludzi ZL III to :",
+    "AnswerA": "mieszkalne",
+    "AnswerB": "użyteczności publicznej, niezakwalifikowane do ZL I i ZL II",
+    "AnswerC": "domy pomocy społecznej",
+    "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Kto w 1184 roku przekazał relikwie św. Floriana do Krakowa?",
+  "AnswerA": "Papież Lucjusz III",
+  "AnswerB": "Biskup Krakowski Gedko",
+  "AnswerC": "Stanisław Aczyński",
+  "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Obowiązujące rozporządzenie w sprawie warunków technicznych jakim powinny odpowiadać budynki i ich usytuowanie wydał :",
+    "AnswerA": "Minister Gospodarki Przestrzennej i Budownictwa",
+    "AnswerB": "Minister Spraw Wewnętrznych i Administracji",
+    "AnswerC": "Minister Infrastruktury",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Sekcja wysokiego ciśnienia w autopompie samochodu gaśniczego podaje wodę pod ciśnieniem :",
+    "AnswerA": "100 bar",
+    "AnswerB": "140 bar",
+    "AnswerC": "40 bar",
+    "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Geometryczna wysokość podnoszenia to:",
+  "AnswerA": "suma geometrycznej wysokości ssania i tłoczenia, wyrażona w metrach",
+  "AnswerB": "suma geometrycznej wysokości ssania i tłoczenia wyrażonej w litrach",
+  "AnswerC": "suma geometrycznej wysokości ssania wyrażona w metrach",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Gdzie należy stosować oświetlenie ewakuacyjne ?",
+  "AnswerA": "na wszystkich drogach ewakuacyjnych",
+  "AnswerB": "na drogach ewakuacyjnych niedoświetlonych światłem dziennym",
+  "AnswerC": "na drogach ewakuacyjnych w obiektach ZL III",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Starosta kieruje działaniami w celu zapobieżenia skutkom klęski żywiołowej przy pomocy:",
+  "AnswerA": "zespołu do spraw ochrony przeciwpożarowej i ratownictwa",
+  "AnswerB": "powiatowego zespołu reagowania kryzysowego",
+  "AnswerC": "powiatowego zespołu do spraw bezpieczeństwa",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Toporek strażacki ma masę:",
+  "AnswerA": "1,25 kg",
+  "AnswerB": "1,5 kg",
+  "AnswerC": "1,7 kg",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Elementy nierozprzestrzeniające ognia to elementy wykonane z materiałów:",
+  "AnswerA": "trudno zapalnych",
+  "AnswerB": "niepalnych i niezapalnych",
+  "AnswerC": "łatwo zapalnych",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Odległość między ścianami zewnętrznymi budynków lub częściami tych ścian może być zmniejszona, o 50% jeżeli we wszystkich strefach pożarowych budynków, przylegających odpowiednio do tych ścian lub ich części zastosowano:",
+  "AnswerA": "urządzenia oddymiające",
+  "AnswerB": "instalację sygnalizacji alarmu pożaru",
+  "AnswerC": "stałe urządzenia gaśnicze wodne",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "II stopień oparzenia to:",
+  "AnswerA": "oparzenie, którego objawem jest zaczerwienienie skóry (rumień), obrzęk i uczucie pieczenia",
+  "AnswerB": "oparzenie, którego objawem jest pojawienie się na zaczerwienionej i obrzękniętej skórze pęcherzy z żółtawym płynem surowiczym, któremu towarzyszy temu ostry ból",
+  "AnswerC": "oparzenie, które cechuje się martwicą całej grubości skóry, a także uszkodzeniem tkanek położonych głębiej (mięśnie, ścięgna), skrajną postacią oparzenia jest zwęglenie tkanek",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Instalacja wentylacji oddymiającej powinna zapewniać:",
+  "AnswerA": "usuwanie dymu z intensywnością co najmniej 10 wymian na godzinę",
+  "AnswerB": "usuwanie dymu z intensywnością co najmniej 5 wymian na godzinę",
+  "AnswerC": "nie ma takiego wymogu",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Zasysacz liniowy pozwala na uzyskanie wodnego roztworu środka pianotwórczego o wartości :",
+  "AnswerA": "3 i 6 %",
+  "AnswerB": "6 i 12 %",
+  "AnswerC": "13 i 16 %",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Zespół podstawowy w ratownictwie medycznym stanowi:",
+  "AnswerA": " Ratownik medyczny (paramedyk) i dwóch ratowników przedmedycznych (techników medycznych)",
+  "AnswerB": "Lekarz, ratownik medyczny i dwóch ratowników przedmedycznych",
+  "AnswerC": "Dwóch ratowników przedmedycznych",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Drogi pożarowe o odpowiednio utwardzonej i wytrzymałej nawierzchni powinny być doprowadzone do obiektów niskich:",
+  "AnswerA": "ZL III i ZL V",
+  "AnswerB": "nie wymaga się doprowadzenia dróg pożarowych do obiektów niskich",
+  "AnswerC": "ZL I i ZL II",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Nudności i wymioty u poszkodowanego to:",
+  "AnswerA": "normalna reakcja na wypadek",
+  "AnswerB": "reakcja organizmu występująca zawsze przy urazie brzucha",
+  "AnswerC": "niebezpieczny objaw neurologiczny",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Ile wynosi czas ochronnego działania aparatu powietrznego AP 3 przy zużyciu 30 l/min:",
+  "AnswerA": "53 min",
+  "AnswerB": "38 min",
+  "AnswerC": "60 min",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Wymień trzy typy dowodzenia działaniami ratowniczymi:",
+  "AnswerA": "operacyjny, taktyczny, współdziałający",
+  "AnswerB": "strategiczny, taktyczny, interwencyjny",
+  "AnswerC": "strategiczny, operacyjny, taktyczno – interwencyjny",
+  "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przy zwichnięciach w stawie barkowym wykonujemy następujące czynności ratownicze:",
+    "AnswerA": "nastawiamy na miejscu zdarzenia",
+    "AnswerB": "unieruchamiamy w pozycji zastanej",
+    "AnswerC": "unieruchamiamy w pozycji fizjologicznej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Zespół startujący w konkurencji – ćwiczenia bojowe podczas Mistrzostw Polski w Sporcie Pożarniczym liczy:",
+    "AnswerA": "4 zawodników",
+    "AnswerB": "7 zawodników",
+    "AnswerC": "8 zawodników",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Energia cieplna, wyrażona w MJ, która może powstać przy spaleniu materiałów palnych znajdujących się w pomieszczeniu, strefie pożarowej lub składowisku materiałów stałych przypadająca na jednostkę powierzchni tego obiektu to:",
+    "AnswerA": "obciążenie ogniowe",
+    "AnswerB": "gęstość obciążenia ogniowego",
+    "AnswerC": "wielkość pożaru",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Do samochodów pożarniczych średnich zalicza się samochody o masie całkowitej:",
+    "AnswerA": "od 3,5 do 12 ton",
+    "AnswerB": "od 2 do 3,5 ton",
+    "AnswerC": "od 12 do 15 ton",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Względny czas trwania pożaru to:",
+    "AnswerA": "czas, w którym ulegną spaleniu materiały palne znajdujące się w pomieszczeniu lub składowisku materiałów stałych w strefie pożarowej",
+    "AnswerB": "czas, w którym ulegną spaleniu wszystkie materiały znajdujące się w pomieszczeniu lub strefie pożarowej",
+    "AnswerC": "czas, w którym ulegną spaleniu tylko stałe materiały palne znajdujące się w pomieszczeniu",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Wysoko umieszczone oświetlenie podstawowe i/lub ewakuacyjne powinno być usytuowane powyżej:",
+    "AnswerA": "180 cm od podłogi",
+    "AnswerB": "200 cm od podłogi",
+    "AnswerC": "220 cm od podłogi",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Aparat oddechowy na sprężone powietrze należy do sprzętu:",
+    "AnswerA": "oczyszczającego",
+    "AnswerB": "filtrującego",
+    "AnswerC": "izolującego",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Liczba spienienia to:",
+    "AnswerA": "stosunek ilości piany do ilości środka pianotwórczego, z którego ta piana została wytworzona",
+    "AnswerB": "liczba pęcherzyków powietrza zawarta w 1 dm³ piany",
+    "AnswerC": "stosunek ilości wodnego roztworu środka pianotwórczego do wydajności piany",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaka najmniejsza ilość pomp musi być użyta w systemie przetłaczania wody?",
+    "AnswerA": "2",
+    "AnswerB": "1",
+    "AnswerC": "3",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "CKG są to ubrania:",
+    "AnswerA": "ochrony przeciwchemicznej",
+    "AnswerB": "żaroodporne",
+    "AnswerC": "nurkowe",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "27.06.1996 r. ZG ZOSP RP ustanowił Medal Honorowy:",
+    "AnswerA": "Zygmunta Hormańskiego",
+    "AnswerB": "Bolesława Chomicza",
+    "AnswerC": "Józefa Tuliszkowskiego",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Organizatorami zdobywania Młodzieżowej Odznaki Sprawności Obronnej o specjalności pożarniczej były:",
+    "AnswerA": "OSP i Ludowe Zespoły Sportowe",
+    "AnswerB": "OSP i Liga Obrony Kraju",
+    "AnswerC": "OSP, LZS, LOK",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Drużyny strażackie brały udział w konkursie im. Władysława Orkana, który poświęcony był:",
+    "AnswerA": "organizowaniu bibliotek przez OSP",
+    "AnswerB": "organizowaniu kółek dramatycznych",
+    "AnswerC": "upowszechnianiu czytelnictwa",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku w miejsce zlikwidowanego „Strażaka” utworzono nowy periodyk wydawany w języku polskim – „Przegląd Pożarniczy”:",
+    "AnswerA": "1905 r.",
+    "AnswerB": "1912 r.",
+    "AnswerC": "1920 r.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Który z wielkich Polaków ogłosił „Porządek Ogniowy” będący pierwszym regulaminem gaszenia pożarów:",
+    "AnswerA": "Jan Łaski (XVI w.) – kanclerz wielki koronny",
+    "AnswerB": "Jerzy Lubomirski (XVII w.) – marszałek izby poselskiej",
+    "AnswerC": "Stanisław Lubomirski (XVIII w.) – marszałek",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Jeśli w 1970 r. straży typu „S” było 5467, to w 1980 r. było:",
+    "AnswerA": "7900",
+    "AnswerB": "8446",
+    "AnswerC": "10320",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Najwcześniej w Europie samochody pojawiły się w strażach:",
+    "AnswerA": "Paryża i Hanoweru",
+    "AnswerB": "Berlina i Londynu",
+    "AnswerC": "Wiednia i Amsterdamu",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W wyniku porozumienia zawartego w 1960 r. między ZG ZOSP i Centralnym Zarządem Kin, w 1961 r. ile utworzono stałych kin strażackich:",
+    "AnswerA": "161",
+    "AnswerB": "192",
+    "AnswerC": "221",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W latach 1916-1918 najwięcej strażaków walczyło o niepodległość w organizacjach:",
+    "AnswerA": "Legionach Polskich",
+    "AnswerB": "Polskiej Organizacji Wojskowej",
+    "AnswerC": "Polskich Siłach Zbrojnych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pierwszą myśl i koncepcję utworzenia w Królestwie Polskim oddziałów „strażaczek” sformułowano:",
+    "AnswerA": "na Zjeździe Straży Ogniowych we Wrocławiu 18 i 19.08.1912 r.",
+    "AnswerB": "w „Strażaku” w 1910",
+    "AnswerC": "w „Przewodniku Pożarniczym” w 1916 r.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Masa całkowita pojazdu ratowniczo–gaśniczego 022 wynosi:",
+    "AnswerA": "17500 kg",
+    "AnswerB": "12300 kg",
+    "AnswerC": "15790 kg",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pojazd ratowniczo–gaśniczy 014R posiada układ jezdno–napędowy:",
+    "AnswerA": "4x2",
+    "AnswerB": "4x4",
+    "AnswerC": "6x6",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na jakiej wysokości od poziomu podłogi umieszcza się zawory hydrantowe w budynkach:",
+    "AnswerA": "1,0 m",
+    "AnswerB": "1,25 m",
+    "AnswerC": "1,35 m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Głębokość nurkowania średnia zawiera się w granicach:",
+    "AnswerA": "od 12 m do 30 m",
+    "AnswerB": "od 12 m do 20 m",
+    "AnswerC": "od 12 m do 20 m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Zasysacz liniowy to:",
+    "AnswerA": "sprzęt pożarniczy pianowy służący do zasysania i odpowiedniego dozowania środka pianotwórczego przy wytwarzaniu piany ciężkiej za pomocą prądownicy PP-200",
+    "AnswerB": "sprzęt pożarniczy pianowy służący do zasysania i odpowiedniego dozowania środka pianotwórczego przy wytwarzaniu piany ciężkiej za pomocą prądownicy PP-8-12",
+    "AnswerC": "sprzęt pożarniczy pianowy służący do zasysania i odpowiedniego dozowania środka pianotwórczego przy wytwarzaniu piany ciężkiej za pomocą prądownicy PP-1-11",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pod pojęciem gotowości bojowej rozumie się:",
+    "AnswerA": "pośpieszne osiągnięcie stanu gotowości bojowej podziału straży pożarnej",
+    "AnswerB": "zdolność podziału straży pożarnej do podjęcia akcji ratowniczej w określonym czasie",
+    "AnswerC": "czynności podziałów taktycznych straży pożarnych mające na celu zlikwidowanie pożaru",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Geofonem nazywamy:",
+    "AnswerA": "urządzenie służące do wykrywania substancji toksycznych",
+    "AnswerB": "urządzenie sejsmiczno-akustyczne do wykrywania i lokalizowania zasypanych ludzi",
+    "AnswerC": "urządzenie służące do zdalnego bezdotykowego pomiaru temperatury",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Co zyskujemy przy szeregowym łączeniu pomp?",
+    "AnswerA": "sumę wydatków wszystkich pomp",
+    "AnswerB": "sumę ciśnień wszystkich pomp",
+    "AnswerC": "sumę ciśnień i wydatków wszystkich pomp",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jakie stężenie w powietrzu dwutlenku węgla stanowi zagrożenie dla życia ludzi:",
+    "AnswerA": "0,4 %",
+    "AnswerB": "4 %",
+    "AnswerC": "0,04 %",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na jakim ciśnieniu roboczym pracują narzędzia hydrauliczne Lucas:",
+    "AnswerA": "630 bar",
+    "AnswerB": "720 bar",
+    "AnswerC": "700 bar",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Maksymalna praktyczna wysokość ssania wynosi:",
+    "AnswerA": "5 m",
+    "AnswerB": "7,5 m",
+    "AnswerC": "10 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na jaki kolor są malowane butle tlenowe w aparatach do cięcia metali?",
+    "AnswerA": "żółty",
+    "AnswerB": "czerwony",
+    "AnswerC": "niebieski",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Wydajność działka proszkowego w samochodzie GPr-3000 wynosi:",
+    "AnswerA": "5 kg/s",
+    "AnswerB": "15 kg/s",
+    "AnswerC": "25 kg/s",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy do budynku niskiego, w którym mieści się dyskoteka na 100 osób wymagane jest wykonanie drogi pożarowej?",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, ale w przypadku gdy budynek jest z materiałów palnych",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wyjazdów należy wykonać na ogrodzony plac targowy o powierzchni 6 ha?",
+    "AnswerA": "co najmniej 1",
+    "AnswerB": "co najmniej 2",
+    "AnswerC": "co najmniej 3",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Za pomieszczenie przeznaczone na czasowy pobyt ludzi uważa się pomieszczenie, w którym przebywanie tych samych osób w ciągu doby trwa:",
+    "AnswerA": "do 2 godzin",
+    "AnswerB": "od 2 do 4 godzin włącznie",
+    "AnswerC": "powyżej 4 godzin",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy w budynku mieszkalnym, mającym instalację gazową zasilaną z sieci można stosować instalację gazową z butli?",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, ale tylko w budynku niskim",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W jakiej najmniejszej odległości od okna w mieszkaniu można ustawić kuchenkę gazową?",
+    "AnswerA": "0,5 m",
+    "AnswerB": "1,0 m",
+    "AnswerC": "1,2 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Klasa odporności pożarowej podziemnej części budynku nie może być niższa niż:",
+    "AnswerA": "C",
+    "AnswerB": "D",
+    "AnswerC": "E",
+    "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Jak należy wykonywać przejście połączenia garażu z domem jednorodzinnym:",
+  "AnswerA": "przejście zamknąć drzwiami bez odporności ogniowej",
+  "AnswerB": "przejście zamknąć drzwiami o odporności ogniowej 30 minut",
+  "AnswerC": "w przejściu wykonać przedsionek zamknięty obustronnie drzwiami o odporności ogniowej 30 minut",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Jakie minimalne wymagania stawiane materiałom, z których wykonuje się klapy dymowe w dachu;",
+  "AnswerA": "mogą być wykonane z materiału łatwo zapalnego",
+  "AnswerB": "muszą być wykonane z materiału trudno zapalnego",
+  "AnswerC": "muszą posiadać odporność ogniową nie mniejszą niż odporność ogniowa dachu",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Jaką odporność ogniową muszą spełnia drzwi znajdujące się w ścianie oddzielenia przeciwpożarowego:",
+  "AnswerA": "muszą posiadać odporność ogniową równą połowie odporności ogniowej ściany",
+  "AnswerB": "muszą posiadać odporność ogniową równą odporności ogniowej ściany",
+  "AnswerC": "muszą spełniać warunek dymoszczelności",
+  "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Z jakiego budynku drzwi ewakuacyjne powinny otwierać się na zewnątrz?",
+    "AnswerA": "z każdego, z wyłączeniem budynku wpisanego do rejestru zabytków",
+    "AnswerB": "przeznaczonego dla więcej niż 50 osób, z wyłączeniem budynku wpisanego do rejestru zabytków",
+    "AnswerC": "z budynku użyteczności publicznej, z wyłączeniem budynku wpisanego do rejestru zabytków",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "O ile można powiększyć długość przejścia w świetlicy o wysokości 6 m?",
+    "AnswerA": "o 25%",
+    "AnswerB": "o 50%",
+    "AnswerC": "nie można powiększyć",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaką wielkość obciążenia ogniowego przyjmuje się w garażu wielostanowiskowym?",
+    "AnswerA": "do 500 MJ/m²",
+    "AnswerB": "do 1000 MJ/m²",
+    "AnswerC": "należy obliczyć w zależności od ilości miejsc, przyjmując że garażowane są samochody osobowe",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W jakim pomieszczeniu kraty w oknach powinny otwierać się od wewnątrz?",
+    "AnswerA": "w każdym przeznaczonym na pobyt ludzi",
+    "AnswerB": "hotelowym",
+    "AnswerC": "produkcyjnym i usługowym",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wynosi nominalny zasięg poziomy dla hydrantu wewnętrznego 25 z zastosowaniem jednego odcinka węża o długości 15 m?",
+    "AnswerA": "25 m",
+    "AnswerB": "30 m",
+    "AnswerC": "35 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile wynosi najmniejsza powierzchnia otworu pod klapę dymową?",
+    "AnswerA": "0,6 m²",
+    "AnswerB": "1,8 m²",
+    "AnswerC": "1,0 m²",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaką nazwę nosiła utworzona w 1860 r. w Galicji instytucja ubezpieczeń od ognia?",
+    "AnswerA": "Powszechne Towarzystwo Ubezpieczeń",
+    "AnswerB": "Krajowe Towarzystwo Ubezpieczeń od Ognia",
+    "AnswerC": "Towarzystwo Ubezpieczeń od Klęsk Żywiołowych i Ognia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Władzą Głównego Związku Straży Pożarnych RP była:",
+    "AnswerA": "Rada Naczelna",
+    "AnswerB": "Rada Związku",
+    "AnswerC": "Główna Rada Związku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W 1924 r. w ramach Głównego Związku Straży Pożarnych RP działało już:",
+    "AnswerA": "15 harcerskich drużyn",
+    "AnswerB": "25 harcerskich drużyn",
+    "AnswerC": "30 harcerskich drużyn",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Liczba żeńskich drużyn pożarniczych w 1939 r. wynosiła:",
+    "AnswerA": "913",
+    "AnswerB": "1027",
+    "AnswerC": "1250",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Na terenie jakiego województwa zorganizowano od 30.09 do 07.10.1945 r. pierwszy w Polsce „Tydzień Obrony Przeciwpożarowej”?",
+    "AnswerA": "warszawskiego",
+    "AnswerB": "krakowskiego",
+    "AnswerC": "lubelskiego",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Kto był w 1909 r. autorem podręcznika pt. „Walka z pożarami dla użytku miast, mniejszych gmin, dworów, wsi i osad”?",
+    "AnswerA": "Józef Tuliszkowski",
+    "AnswerB": "Bolesław Chomicz",
+    "AnswerC": "Leon Ostaszewski",
+    "CorrectAnswer": 0
+  },
+  { 
+    "QuestionTitle": "Warszawska Straż Ogniowa pod koniec lipca 1944 r. liczyła:",
+    "AnswerA": "680 strażaków",
+    "AnswerB": "780 strażaków",
+    "AnswerC": "1080 strażaków",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W Ministerstwie Ziem Odzyskanych powołano organ pożarniczy w postaci:",
+    "AnswerA": "Głównego Inspektoratu Pożarnictwa",
+    "AnswerB": "Wydziału Pożarnictwa w Departamencie Administracji Publicznej",
+    "AnswerC": "Samodzielnego Referatu Pożarnictwa w Departamencie Administracji Publicznej",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Minister administracji publicznej 30.11.1945 r. powołał:",
+    "AnswerA": "Przymusowy Związek Straży Pożarnej",
+    "AnswerB": "Związek Ochotniczych Straży Pożarnych",
+    "AnswerC": "Związek Straży Pożarnych RP",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Na którym terenie w 1945 r. najlepiej wśród autochtonów rozwijały się OSP?",
+    "AnswerA": "na Dolnym Śląsku",
+    "AnswerB": "na Ziemi Opolskiej",
+    "AnswerC": "na Warmii i Mazurach",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pojemność zbiornika na wodę w pojeździe pożarniczym 010M wynosi:",
+    "AnswerA": "4000 dm³",
+    "AnswerB": "2000 dm³",
+    "AnswerC": "5000 dm³",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pojazd ratowniczo-gaśniczy 010M posiada:",
+    "AnswerA": "autopompę jednozakresową",
+    "AnswerB": "autopompę dwuzakresową",
+    "AnswerC": "motopompę",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Podczas zjazdu, przechodzenia po linie, przechodzenia węzła lub stanowiska należy bezwzględnie stosować zasadę:",
+    "AnswerA": "jednego punktu wpięcia ratownika w linę",
+    "AnswerB": "dwóch punktów wpięcia ratownika w linę",
+    "AnswerC": "trzech punktów wpięcia ratownika w linę",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Hydropult to:",
+    "AnswerA": "urządzenie samoczynnie składające się z pompy i zasilanego przez nią zbiornika wodno-powietrznego",
+    "AnswerB": "podręczny sprzęt gaśniczy uruchamiany ręcznie, w którym środek gaśniczy wyrzucany jest ze zbiornika własnego urządzenia za pomocą ssąco-tłocznej pompy ręcznej",
+    "AnswerC": "podręczny sprzęt gaśniczy służący do gaszenia pożarów w zarodku, pompa ssąco-tłocząca bez własnego zbiornika",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czas nurkowania liczy się:",
+    "AnswerA": "od początku przebywania w podwyższonym ciśnieniu, tj. od zanurzenia aż do momentu ponownego zrównania się ciśnienia wewnętrznego nurka z ciśnieniem atmosferycznym",
+    "AnswerB": "od chwili osiągnięcia maksymalnej głębokości do rozpoczęcia wynurzania",
+    "AnswerC": "od rozpoczęcia pracy pod wodą do zakończenia zadania",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Geometryczna wysokość podnoszenia to:",
+    "AnswerA": "suma geometrycznej wysokości ssania i tłoczenia, wyrażana w metrach",
+    "AnswerB": "suma geometrycznej wysokości ssania i tłoczenia, wyrażona w litrach",
+    "AnswerC": "suma geometrycznej wysokości ssania wyrażona w metrach",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Geometryczna wysokość tłoczenia to:",
+    "AnswerA": "rzeczywista pionowa odległość między osią nasady a punktem najwyższego rzutu wody, mierzona w metrach",
+    "AnswerB": "suma geometrycznej wysokości tłoczenia, wyrażana w metrach",
+    "AnswerC": "suma geometrycznej wysokości ssania, wyrażana w metrach",
+    "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Pirometrem nazywamy:",
+  "AnswerA": "urządzenie służące do wykrywania substancji toksycznych",
+  "AnswerB": "urządzenie sejsmiczno-akustyczne do wykrywania i lokalizacji zasypanych ludzi",
+  "AnswerC": "urządzenie służące do zdalnego bezdotykowego pomiaru temperatury",
+  "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Generatory aerozolu gaszącego przeznaczone są do lokalizacji i gaszenia pożarów klas:",
+    "AnswerA": "A i B",
+    "AnswerB": "B i C",
+    "AnswerC": "A, B, C i E w pomieszczeniu zamkniętym",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku w Niemczech utworzono Wszechniemiecki Związek Straży Pożarnej?",
+    "AnswerA": "1853",
+    "AnswerB": "1863",
+    "AnswerC": "1871",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Pierwsze „Porządki ogniowe” w Europie zostały wydane dla miast:",
+    "AnswerA": "Augsburg – Paryż",
+    "AnswerB": "Londyn – Wiedeń",
+    "AnswerC": "Monachium – Drezno",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W 1853 r. pruskie władze wydały ordynację, która stworzyła podstawy prawne do:",
+    "AnswerA": "regulacji zakresu działania straży zawodowych",
+    "AnswerB": "regulacji zaopatrywania straży w sprzęt",
+    "AnswerC": "wydawania przez miasta własnych statutów dla straży",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "We wrześniu 1916 r. w Warszawie odbył się zjazd 953 strażaków reprezentujących 302 ochotnicze i fabryczne straże ogniowe, na którym powołano związek floriański. Kto należał do głównych organizatorów zjazdu?",
+    "AnswerA": "Dr Alfred Zagórski, inż. Edward Wagner, Klemens Matusiak",
+    "AnswerB": "Bolesław Chomicz, inż. Ludwik Zagórski, Józef Tuliszkowski",
+    "AnswerC": "Emil Balcel, Stanisław Szostkiewicz, Alfred Grohman",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Od którego roku datuje się powstanie pierwszych harcerskich drużyn pożarniczych?",
+    "AnswerA": "1916 r.",
+    "AnswerB": "1919 r.",
+    "AnswerC": "1921 r.",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "2 lipca 1931 r. powstała straż pożarna:",
+    "AnswerA": "wojskowa straż pożarna",
+    "AnswerB": "kolejowa straż pożarna",
+    "AnswerC": "zakonna ochotnicza straż pożarna",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Które partie i stronnictwa toczyły między sobą walkę o wpływy w ochotniczych strażach pożarnych?",
+    "AnswerA": "Narodowa Demokracja (endecja) z sanacją Bezpartyjnym Blokiem Współpracy z Rządem (BBWR)",
+    "AnswerB": "Polskie Stronnictwo Ludowe „Piast” z Chłopskim Stronnictwem Radykalnym",
+    "AnswerC": "Polska Partia Socjalistyczna z Polskim Stronnictwem Ludowym „Wyzwolenie”",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Łącznie pod wpływami OSP w latach osiemdziesiątych znajdowało się około:",
+    "AnswerA": "1.900.000 osób",
+    "AnswerB": "2.500.000 osób",
+    "AnswerC": "3 miliony osób",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W latach 1964-1975 w żeńskich drużynach pożarniczych uczestniczyło:",
+    "AnswerA": "130 tys. kobiet",
+    "AnswerB": "200 tys. kobiet",
+    "AnswerC": "250 tys. kobiet",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Zasadniczą reorganizację ochotniczych straży pożarnych przeprowadzono w okresie:",
+    "AnswerA": "1944-1947",
+    "AnswerB": "1944-1949",
+    "AnswerC": "1950-1955",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Aby zapalić kawałek drewna, musimy dostarczyć do niego energię, czyli podgrzać go do odpowiedniej temperatury. Nosi ona nazwę:",
+    "AnswerA": "temperatury zapłonu",
+    "AnswerB": "temperatury zapalenia",
+    "AnswerC": "temperatury tlenia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przy spalaniu gazów mamy do czynienia z różnymi rodzajami płomieni. Jaką nazwę nosi płomień, gdy z palnika wydobywa się gaz nie zmieszany z powietrzem lub tlenem, a powietrze (tlen) dociera do niego w stanie spalania?",
+    "AnswerA": "płomień zewnętrzny",
+    "AnswerB": "płomień kinetyczny",
+    "AnswerC": "płomień dyfuzyjny",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Pożar budynku o objętości 400 m³ to pożar:",
+    "AnswerA": "mały",
+    "AnswerB": "średni",
+    "AnswerC": "duży",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jakie średnice mają węże ssawne stosowane w ochronie przeciwpożarowej?",
+    "AnswerA": "110 mm",
+    "AnswerB": "75 mm i 110 mm",
+    "AnswerC": "52 mm, 75 mm i 110 mm",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Parametry prądownicy pianowej PP2 to:",
+    "AnswerA": "nasada tłoczona 52 mm i wydajność wodnego roztworu środka pianotwórczego 200 dm³/min",
+    "AnswerB": "nasada tłoczna 52 mm i wydajność piany gaśniczej 400 dm³/min",
+    "AnswerC": "taka prądownica nie występuje na wyposażeniu samochodów gaśniczych PSP i OSP",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Masa gotowej do użycia gaśnicy przenośnej, to jest gaśnicy przenoszonej i uruchamianej ręcznie, nie powinna przekraczać:",
+    "AnswerA": "9 kg",
+    "AnswerB": "12 kg",
+    "AnswerC": "20 kg",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Pododdział w sile 9 ratowników, to:",
+    "AnswerA": "zastęp",
+    "AnswerB": "sekcja",
+    "AnswerC": "pluton",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podpinka, wchodząca w skład uzbrojenia osobistego strażaka, to:",
+    "AnswerA": "tkanina wewnętrzna do izolacji cieplnej odzieży specjalnej, zapobiegająca poparzeniu ratownika",
+    "AnswerB": "system uchwytów do mocowania uzbrojenia osobistego",
+    "AnswerC": "krótka linka z hakiem do zabezpieczenia linii wężowych",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Do ugaszenia pożaru zużyto 0,2 m³ roztworu środka pianotwórczego posługując się prądownicą pianową. Jaką objętość piany uzyskano?",
+    "AnswerA": "200 dm³",
+    "AnswerB": "2,4 dm³",
+    "AnswerC": "15 dm³",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przystępując do natarcia przy użyciu piany gaśniczej, przyjmuje się określony obliczeniowy czas podawania środka gaśniczego, po którym pożar powinien być całkowicie ugaszony (pokryty) pianą. W przypadku piany ciężkiej czas ten wynosi:",
+    "AnswerA": "5 min",
+    "AnswerB": "8 min",
+    "AnswerC": "10 min",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy każde stałe urządzenie gaśnicze zalicza się do urządzeń przeciwopożarowych?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, pod warunkiem, że stosowane jest w obiektach wymagających wyposażenia w urządzenia tryskaczowe",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy dopuszcza się garażowanie ciągnika rolniczego (traktora) w budynku stodoły?",
+    "AnswerA": "nie",
+    "AnswerB": "tak, jeżeli czas postoju w budynku nie przekracza 60 min",
+    "AnswerC": "tak, jeżeli opróżniony jest w ciągniku zbiornik paliwa",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy na stacji paliw dopuszczalne jest napełnianie butli gazem płynnym?",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, pod warunkiem, że w czasie napełniania butli, przy dystrybutorze nie jest ustawiony pojazd oczekujący na napełnienie zbiornika",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Jaka maksymalna temperatura może występować w pomieszczeniu, w którym magazynowane są butle z gazami płynnymi?",
+    "AnswerA": "21°C",
+    "AnswerB": "25°C",
+    "AnswerC": "35°C",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Właściciel sklepu, w którym może jednocześnie przebywać więcej niż 50 klientów, powinien przeprowadzić praktyczne sprawdzenie organizacji oraz warunków ewakuacji nie rzadziej niż:",
+    "AnswerA": "raz na dwa lata",
+    "AnswerB": "raz na trzy lata",
+    "AnswerC": "raz na pięć lat",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy w domu pomocy społecznej wymagane jest stosowanie systemu sygnalizacji pożarowej?",
+    "AnswerA": "nie",
+    "AnswerB": "tak, jeżeli liczba łóżek w budynku przekracza 100",
+    "AnswerC": "tak, jeżeli występuje przekroczenie dopuszczalnej powierzchni strefy pożarowej",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy miejsce omłotów powinno być wyposażone w pojemniki z wodą?",
+    "AnswerA": "tak",
+    "AnswerB": "tak, o objętości co najmniej 200 dm³",
+    "AnswerC": "nie, jeżeli miejsce wyposażone jest w wymaganą liczbę gaśnic",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaką odległość należy zachować pomiędzy sterami ustawionymi w jednej strefie pożarowej?",
+    "AnswerA": "20 m",
+    "AnswerB": "30 m",
+    "AnswerC": "nie normuje się odległości",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Ile wynosi wymagana ilość wody do celów przeciwpożarowych dla stacji paliw?",
+    "AnswerA": "5 dm³/s",
+    "AnswerB": "10 dm³/s",
+    "AnswerC": "20 dm³/s",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy w budynku jednorodzinnym konieczne jest wydzielenie pożarowe magazynu oleju opałowego za pomocą ścian i stropów oraz drzwi o wymaganej odporności ogniowej?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli pojemność zbiornika z olejem opałowym jest większa niż 1000 m³",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Zbiorowisko leśne, w którym dominują drzewa iglaste to:",
+    "AnswerA": "ols",
+    "AnswerB": "grąd",
+    "AnswerC": "bór",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Największym w Polsce zwartym kompleksem leśnym (321 tys. ha) są:",
+    "AnswerA": "Bory Tucholskie",
+    "AnswerB": "Puszcza Kozienicka",
+    "AnswerC": "Puszcza Białowieska",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Krajowy system ratowniczo-gaśniczy jest wspomagany na poziomie powiatowym przez organizacje pozarządowe i humanitarne na zasadach:",
+    "AnswerA": "obowiązku",
+    "AnswerB": "dobrowolności",
+    "AnswerC": "zgody pisemnej wojewody",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Opracowanie i realizację wojewódzkiego planu ratowniczego koordynuje:",
+    "AnswerA": "komendant wojewódzki PSP",
+    "AnswerB": "komendant główny PSP",
+    "AnswerC": "marszałek samorządu wojewódzkiego",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Powiatowe plany ratownicze zatwierdza:",
+    "AnswerA": "komendant powiatowy PSP",
+    "AnswerB": "komendant wojewódzki PSP",
+    "AnswerC": "starosta",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Powiatowe i wojewódzkie plany ratownicze aktualizuje się co najmniej:",
+    "AnswerA": "co roku i zawsze w razie potrzeby",
+    "AnswerB": "co 2 lata",
+    "AnswerC": "co 3 lata",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Kierowanie działaniem ratowniczym prowadzone jest przez:",
+    "AnswerA": "sztab, jeśli jest on ujęty w planie ratowniczym",
+    "AnswerB": "dowódcę podmiotu ratowniczego, który pierwszy przybył na miejsce zdarzenia",
+    "AnswerC": "oficera policji, szczególnie gdy jest kilka podmiotów ratowniczych na miejscu zdarzenia",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Procedurę ratowniczą w czasie działań ratowniczych może zmienić:",
+    "AnswerA": "tylko sztab",
+    "AnswerB": "tylko dowodzący działaniem ratowniczym",
+    "AnswerC": "nie można jej zmienić",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Siły i środki wyznaczone do składu wojewódzkich odwodów operacyjnych nie mogą przekraczać:",
+    "AnswerA": "jednej trzeciej sił Państwowej Straży Pożarnej województwa",
+    "AnswerB": "jednej trzeciej sił systemu ratowniczego na obszarze województwa",
+    "AnswerC": "jednej trzeciej sił systemu ratowniczego",
+    "CorrectAnswer": 2
+  },
+  { 
+    "QuestionTitle": "Centralne obwody operacyjne są wyposażone i zaopatrzone w takim zakresie, aby zapewniały możliwość prowadzenia działań ratowniczych bez dodatkowego zaprowiantowania przez okres co najmniej:",
+    "AnswerA": "72 godzin",
+    "AnswerB": "48 godzin",
+    "AnswerC": "24 godzin",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pierwszą straż pożarną zawodową zorganizowano w XVIII wieku w:",
+    "AnswerA": "Anglii",
+    "AnswerB": "Niemczech",
+    "AnswerC": "Francji",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Na terenie którego z zaborów powstała pierwsza ochotnicza straż pożarna?",
+    "AnswerA": "w Galicji (zabór austriacki)",
+    "AnswerB": "w zaborze pruskim",
+    "AnswerC": "w Królestwie Polskim (zabór rosyjski)",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W 1913 r. Ministerstwo Spraw Wewnętrznych Królestwa Polskiego zezwoliło na organizowanie:",
+    "AnswerA": "młodzieżowych oddziałów pożarniczych",
+    "AnswerB": "drużyn samarytanek",
+    "AnswerC": "zajęć szkolnych z zakresu pożarnictwa",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W 1933 r. Rada Ministrów nadała Związkowi Straży nową nazwę:",
+    "AnswerA": "Związek Straży Pożarnych Rzeczypospolitej Polskiej",
+    "AnswerB": "Główny Związek Straży Pożarnych Rzeczypospolitej Polskiej",
+    "AnswerC": "Związek Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "W świetle ustawy z 13 marca 1934 r. przełożony gminy zobowiązany jest sporządzić regulamin zapobiegania i tłumienia pożarów po zasięgnięciu opinii:",
+    "AnswerA": "gminnego zarządu ochotniczych straży pożarnych",
+    "AnswerB": "prezesa zarządu gminnego",
+    "AnswerC": "naczelnika miejscowej straży (naczelników miejscowej straży)",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku ukazało się zarządzenie ministra spraw wewnętrznych o organach i kierownictwie obroną przeciwlotniczą i przeciwgazową w ramach prowadzonej akcji przeciwpożarowej?",
+    "AnswerA": "1936 r.",
+    "AnswerB": "1937 r.",
+    "AnswerC": "1938 r.",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W którym roku Sejm Ustawodawczy uchwalił pierwszą w Polsce Ludowej ustawę o ochronie przeciwpożarowej?",
+    "AnswerA": "1947 r.",
+    "AnswerB": "1949 r.",
+    "AnswerC": "1950 r.",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W latach 1950-1954 komendy wojewódzkie i powiatowe straży podlegały ministerstwu:",
+    "AnswerA": "Administracji Publicznej",
+    "AnswerB": "Gospodarki Komunalnej",
+    "AnswerC": "Spraw Wewnętrznych",
+    "CorrectAnswer": 1
+  },
+    {
+    "QuestionTitle": "W roku 1971 i 1973 powołano dwuletnie Szkoły Chorążych Pożarnictwa w:",
+    "AnswerA": "Warszawie i Poznaniu",
+    "AnswerB": "Poznaniu i Wrocławiu",
+    "AnswerC": "Krakowie i Poznaniu",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Od którego roku funkcjonuje krajowy system ratowniczo-gaśniczy?",
+    "AnswerA": "1992 r.",
+    "AnswerB": "1994 r.",
+    "AnswerC": "1995 r.",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Zdolność cieczy palnych do wytworzenia par w ilości wystarczającej do zapalenia jest określona za pomocą temperatury:",
+    "AnswerA": "zapłonu",
+    "AnswerB": "zapalenia",
+    "AnswerC": "wrzenia",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Przy spalaniu gazów mamy do czynienia z różnymi rodzajami płomieni. Jaką nazwę nosi płomień, gdy gaz palny i powietrze (tlen) są wymieszane ze sobą przed podaniem do strefy spalania?",
+    "AnswerA": "płomień wewnętrzny",
+    "AnswerB": "płomień kinetyczny",
+    "AnswerC": "płomień dyfuzyjny",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pożar lasu o powierzchni 8 ha to pożar:",
+    "AnswerA": "mały",
+    "AnswerB": "średni",
+    "AnswerC": "duży",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przy pożarze obiektu użyto 12 prądów gaśniczych. Był to pożar:",
+    "AnswerA": "mały",
+    "AnswerB": "średni",
+    "AnswerC": "duży",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Działanie gaśnicze proszków gaśniczych polega głównie na chemicznym procesie przerwania reakcji spalania. Proces ten nosi nazwę:",
+    "AnswerA": "izolacji",
+    "AnswerB": "inercji",
+    "AnswerC": "pluton",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Maksymalna masa (ładunek) proszku gaśniczego zawartego w gaśnicy przewoźnej to:",
+    "AnswerA": "20 kg",
+    "AnswerB": "25 kg",
+    "AnswerC": "50 kg",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Pododdział w sile 12 ratowników, to:",
+    "AnswerA": "zastęp",
+    "AnswerB": "sekcja",
+    "AnswerC": "pluton",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Zatrzaśnik służy do:",
+    "AnswerA": "szybkiego łączenia węży tłocznych i zabezpieczenia przed ich samoczynnym rozłączeniem",
+    "AnswerB": "łączenia maski z reduktorem aparatu powietrznego wysokociśnieniowego",
+    "AnswerC": "zabezpieczenia strażaka przy pracach na wysokości",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Do ugaszenia pożaru zużyto 0,2 m³ roztworu środka pianotwórczego, posługując się wytwornicą pianową. Jaką objętość piany uzyskano?",
+    "AnswerA": "200 dm³",
+    "AnswerB": "2,4 m³",
+    "AnswerC": "15 m³",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Przystępując do natarcia przy użyciu piany gaśniczej przyjmuje się określony, obliczeniowy czas podawania środka gaśniczego, po którym pożar powinien być całkowicie ugaszony (pokryty) pianą. W przypadku piany średniej czas ten wynosi:",
+    "AnswerA": "5 min",
+    "AnswerB": "8 min",
+    "AnswerC": "10 min",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy ciecze palne zalicza się do materiałów niebezpiecznych pożarowo?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli ich temperatura zapłonu jest niższa niż 328,15 K",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy dopuszcza się rozgrzewanie smoły za pomocą otwartego ognia na dachu budynku w trakcie jego budowy?",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, pod warunkiem, że konstrukcja dachu i jego pokrycie wykonane są z materiałów niepalnych",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W jakiej najmniejszej odległości od urządzeń i instalacji, których powierzchnie mogą nagrzewać się do temperatury przekraczającej 100°C może być przechowywana słoma w belach?",
+    "AnswerA": "0,3 m",
+    "AnswerB": "0,5 m",
+    "AnswerC": "1,0 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy w garażu dopuszcza się napełnianie benzyną zbiornika w samochodzie?",
+    "AnswerA": "nie",
+    "AnswerB": "tak, pod warunkiem, że garaż posiada sprawną wentylację mechaniczną lub wrota wjazdowe do garażu są otwarte w czasie napełniania, a samochód znajduje się w odległości nie większej niż 5 m od drzwi wjazdowych do garażu",
+    "AnswerC": "tak, pod warunkiem, że garaż posiada sprawną wentylację mechaniczną, a benzyna przelewana jest do zbiornika samochodu z kanistra, który posiada dopuszczenie do przechowywania w nim cieczy palnych o temperaturze zapłonu do 55°C",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile wynosi minimalna pojemność zbiornika przeznaczonego do zasilania w wodę instalacji wodociągowej przeciwpożarowej w budynku wysokim, w którym żadna ze stref zaliczonych do kategorii zagrożenia ludzi ZL III nie przekracza powierzchni 850 m²?",
+    "AnswerA": "50 m³",
+    "AnswerB": "100 m³",
+    "AnswerC": "150 m³",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy w jednokondygnacyjnym garażu podziemnym wymagane jest stosowanie stałych urządzeń gaśniczych?",
+    "AnswerA": "tak, jeżeli powierzchnia strefy pożarowej w garażu przekracza 1500 m²",
+    "AnswerB": "tak, jeżeli w strefie pożarowej znajduje się więcej niż 100 stanowisk postojowych",
+    "AnswerC": "nie jest wymagane",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy w lesie o szerokości mniejszej niż 200 m istnieje obowiązek utrzymywania pasów przeciwpożarowych?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli przez las przebiega droga publiczna lub linia kolejowa",
+    "CorrectAnswer": 1
+  }, 
+  {
+    "QuestionTitle": "Kiedy należy oznakować pojazd przewożący butle z gazem płynnym propan-butan tablicami barwy pomarańczowej:",
+    "AnswerA": "gdy przewozi przynajmniej jedną butlę 11 kg",
+    "AnswerB": "gdy przewozi 330 butli 11 kg",
+    "AnswerC": "niezależnie od ilości gazu każdy transport powinien być oznakowany",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Ile wynosi wymagana ilość wody do celów przeciwpożarowych dla stodoły o powierzchni powyżej 2000 m²?",
+    "AnswerA": "co najmniej 5 dm³/s",
+    "AnswerB": "co najmniej 10 dm³/s",
+    "AnswerC": "co najmniej 15 dm³/s",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy pomiędzy drogą pożarową a budynkiem mogą znajdować się drzewa?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, pod warunkiem, że ich wysokość nie przekracza 3 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy klapy dymowe muszą posiadać klasę odporności ogniowej wymaganą dla danego budynku?",
+    "AnswerA": "tak",
+    "AnswerB": "nie",
+    "AnswerC": "tak, jeżeli są stosowane w budynkach produkcyjnych i magazynowych o powierzchni strefy pożarowej przekraczającej 1000 m²",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy do celów ewakuacyjnych mogą być stosowane drzwi obrotowe?",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, pod warunkiem zapewnienia samoczynnego złożenia skrzydeł i pozostawienia ich w pozycji otwartej w razie pożaru",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Państwowe Gospodarstwo Leśne Lasy Państwowe sprawuje zarząd nad lasami stanowiącymi własność skarbu państwa, ale bez parków narodowych, zasobów własności rolnej skarbu państwa oraz objętych użytkowaniem wieczystym. Gospodaruje zatem na:",
+    "AnswerA": "78 procent powierzchni wszystkich lasów w Polsce",
+    "AnswerB": "53 procent",
+    "AnswerC": "32 procent",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Powierzchnia wszystkich lasów w Polsce wynosi ok. 9 mln hektarów, co odpowiada lesistości:",
+    "AnswerA": "37 proc.",
+    "AnswerB": "28 proc.",
+    "AnswerC": "19 proc.",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Opracowanie i aktualizację powiatowego planu ratowniczego koordynuje:",
+    "AnswerA": "komendant wojewódzki PSP",
+    "AnswerB": "komendant powiatowy (miejski) PSP",
+    "AnswerC": "rada powiatu",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Wojewódzkie plany ratownicze zatwierdza:",
+    "AnswerA": "komendant wojewódzki PSP",
+    "AnswerB": "wojewoda",
+    "AnswerC": "wojewódzki sejmik samorządowy",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Podstawowy zespół ratownictwa medycznego to zespół wyposażony w środek transportu i sprzęt medyczny, środki łączności i leki, w którego skład wchodzą co najmniej:",
+    "AnswerA": "dwie osoby uprawnione do udzielania pierwszej pomocy medycznej, działające na polecenie i w porozumieniu z lekarzem",
+    "AnswerB": "trzy osoby uprawnione do samodzielnego udzielania pierwszej pomocy medycznej",
+    "AnswerC": "jeden lekarz i dwie osoby uprawnione do udzielania pomocy medycznej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Siły i środki wyznaczone do składu centralnego obwodu operacyjnego nie mogą przekraczać:",
+    "AnswerA": "jednej drugiej sił Państwowej Straży Pożarnej województwa",
+    "AnswerB": "jednej drugiej sił ratowniczych województwa",
+    "AnswerC": "jednej trzeciej sił Państwowej Straży Pożarnej województwa",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Batalion to:",
+    "AnswerA": "związek pododdziałów i oddziałów przewidziany do prowadzenia działań ratowniczych na terenie całego województwa",
+    "AnswerB": "oddział w sile od trzech do pięciu kompanii oraz dowódca",
+    "AnswerC": "związek specjalistycznych grup ratowniczych, przewidzianych do przeprowadzania działań ratowniczych na terenie własnego województwa",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Wojewódzkie odwody operacyjne są wyposażone i zaopatrzone w takim zakresie, aby zapewniały możliwość prowadzenia działań ratowniczych bez dodatkowego zaprowiantowania przez okres co najmniej:",
+    "AnswerA": "72 godziny",
+    "AnswerB": "48 godzin",
+    "AnswerC": "24 godziny",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Powołanie na funkcje dowódcze w wojewódzkich brygadach odwodowych oraz odwołanie z nich należy do:",
+    "AnswerA": "komendanta głównego PSP",
+    "AnswerB": "dowódcy wojewódzkiej brygady",
+    "AnswerC": "dowódcy centralnego obwodu operacyjnego",
+    "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Co oznaczają tablice barwy pomarańczowej umiejscowione na cysternie: (tablica ma kształt tabeli z jedną kolumną i dwoma wierszami w górnej części jest 33, w dolnej 1203)",
+  "AnswerA": "benzynę",
+  "AnswerB": "olej napędowy",
+  "AnswerC": "gaz propan-butan",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "W skład jednostek organizacyjnych PSP wchodzą:",
+  "AnswerA": "jednostki ratowniczo – gaśnicze",
+  "AnswerB": "terenowe służby ratownicze",
+  "AnswerC": "zakładowe służby ratownicze",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "W korpusie pod oficerów straży pożarnej czwartym z kolei stopniem jest:",
+  "AnswerA": "starszy sekcyjny",
+  "AnswerB": "ogniomistrz",
+  "AnswerC": "starszy aspirant sztabowy",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Szkoła Główna Służby Pożarniczej powstała w roku:",
+  "AnswerA": "1975",
+  "AnswerB": "1981",
+  "AnswerC": "1982",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "W jakim terminie i gdzie odbyły się XI Mistrzostwa Polski w Sportach Pożarniczych:",
+  "AnswerA": "wrzesień 1994 r. Kraków",
+  "AnswerB": "maj 1995 r. Warszawa",
+  "AnswerC": "październik 1994 r. Poznań",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Służba strażacka w służbie przygotowawczej trwa",
+  "AnswerA": "rok",
+  "AnswerB": "dwa lata",
+  "AnswerC": "trzy lata",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Wzór i sposób noszenia umundurowania oraz dystynkcji strażaków określa:",
+  "AnswerA": "minister spraw wewnętrznych",
+  "AnswerB": "komendant główny PSP",
+  "AnswerC": "ustawa o ochronie przeciwpożarowej",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Wykonawcą piosenki „Płonąca stodoła„ był:",
+  "AnswerA": "Krzysztof Krawczyk",
+  "AnswerB": "Czesław Niemen",
+  "AnswerC": "Stan Borys",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Gdzie w Polsce odbywa się Ogólno Polski Festiwal Orkiestr:",
+  "AnswerA": "Ciechocinku",
+  "AnswerB": "Ciechanowie",
+  "AnswerC": "Niepokalanowie",
+  "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Strażak wybrany do organów ZOSP:",
+    "AnswerA": "traci uprawnienia strażaka",
+    "AnswerB": "nie traci uprawnień strażaka",
+    "AnswerC": "zawiesza się jego uprawnienia na czas trwania jego kadencji",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Koszt utrzymania, wyposażenia i zapewnienia gotowości bojowej ochotniczej straży pożarnej ponosi:",
+    "AnswerA": "komenda rejonowa PSP",
+    "AnswerB": "sołtys",
+    "AnswerC": "gmina",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Bezpieczne stężenie gazu palnego w mieszaninie z powietrzem podczas prac z użyciem otwartego ognia to stężenie, które nie przekracza:",
+    "AnswerA": "10 proc. dolnej granicy wybuchowej gazu",
+    "AnswerB": "50 proc. dolnej granicy wybuchowej",
+    "AnswerC": "70 proc. dolnej granicy wybuchowej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Badania okresowe instalacji odgromowej w obiektach zagrożonych wybuchem należy przeprowadzać:",
+    "AnswerA": "raz w roku przed sezonem burzowym nie później niż 15 kwietnia",
+    "AnswerB": "raz w roku przed sezonem burzowym nie później niż 30 kwietnia",
+    "AnswerC": "raz w roku",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W co powinien być wyposażony kierowca cysterny przewożącej benzynę w ilości 19 000 litrów:",
+    "AnswerA": "maska ucieczkowa z pochłaniaczem par benzyny, sorbent, kombinezon ochronny",
+    "AnswerB": "saperka, latarka, kamizelka ostrzegawcza, 2 gaśnice proszkowe",
+    "AnswerC": "latarka, kamizelka ostrzegawcza, 2 pachołki lub 2 trójkąty ostrzegawcze lub 2 lampy barwy pomarańczowej z własnym zasilaniem",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Wykładziny podłogowe stosowane na drogach komunikacji ogólnej służące celom ewakuacji powinny być co najmniej:",
+    "AnswerA": "niepalne",
+    "AnswerB": "trudno palne",
+    "AnswerC": "palne",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Symbol F 2 oznacza:",
+    "AnswerA": "klasę odporności ogniowej elementów budynków",
+    "AnswerB": "rodzaj środka pianotwórczego",
+    "AnswerC": "powierzchnię pożaru równą 2000 m²",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Palenie podtrzymuje:",
+    "AnswerA": "chlor",
+    "AnswerB": "argon",
+    "AnswerC": "dwutlenek węgla",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Najmniejsza wysokość drzwi w świetle na drogach ewakuacyjnych powinna wynosić:",
+    "AnswerA": "190 cm",
+    "AnswerB": "195 cm",
+    "AnswerC": "200 cm",
+    "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Lekki dach to:",
+  "AnswerA": "dach, z którego nie wolno prowadzić akcji gaśniczej",
+  "AnswerB": "dach o ciężarze nie przekraczającym 75 kg/m² rzutu, licząc z konstrukcją nośną dachu",
+  "AnswerC": "dach z materiałów nie palnych lub trudno zapalnych o ciężarze nie przekraczającym 75 kg/m² rzutu",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Butle z gazem propan – butanem można stosować w budynkach o wysokości do:",
+  "AnswerA": "15 m",
+  "AnswerB": "25 m",
+  "AnswerC": "55 m",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Samochód gaśniczy GBA 2,5/16 typ 005:",
+  "AnswerA": "posiada urządzenie szybkiego natarcia z wężem W 52",
+  "AnswerB": "posiada urządzenie szybkiego natarcia z wężem W 25",
+  "AnswerC": "nie posiada urządzenia szybkiego natarcia",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Do samochodów pożarniczych średnich zalicza się samochody o masie całkowitej",
+  "AnswerA": "od 2,3-12 t",
+  "AnswerB": "od 2-3,5 t",
+  "AnswerC": "od 12- 15 t",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "W samochodzie gaśniczym GBA 2,5/16 zgodnie z regulaminem rozwinięcia znajdują się:",
+  "AnswerA": "dwie wytwornice piany średniej WP-2-75 i jedna wytwornica WP-2-150",
+  "AnswerB": "dwie wytwornice piany średniej WP-2-75 i dwie wytwornice WP-2-50",
+  "AnswerC": "nie ma wyposażenia w wytwornice piany średniej",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Sekcja GCBA 6/32 „Jelcz” przy podaniu jednego prądu wody może rozwinąć się na maksymalną odległość:",
+  "AnswerA": "560 m",
+  "AnswerB": "360 m",
+  "AnswerC": "400 m",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Ubranie ochronne typu ciężkiego chroni przed temperaturą:",
+  "AnswerA": "200 °C",
+  "AnswerB": "900 °C",
+  "AnswerC": "400 °C",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Aby mogła powstać mechaniczna piana gaśnicza niezbędne są:",
+  "AnswerA": "woda, środek pianotwórczy, urządzenie",
+  "AnswerB": "wodny roztwór środka pianotwórczego, gaz, urządzenie",
+  "AnswerC": "woda, środek pianotwórczy, powietrze",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": " Zawór wyposażony w zamknięcie grzybkowe z zamkiem rozpadającym się pod działaniem ciepła oraz, rozpryskiwacz, który rozbija wypływający strumień wody na drobne krople nosi nazwę:",
+  "AnswerA": "zraszacz",
+  "AnswerB": "tryskacz",
+  "AnswerC": "zawór alarmowo –gaśniczy",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": " Zjawisko inhibicji (inaczej antykatalizy) procesu spalania występuje podczas gaszenia pożarów:",
+  "AnswerA": "halonami",
+  "AnswerB": "parą wodną",
+  "AnswerC": "dwutlenkiem węgla",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Planowany jest przewóz 100 kg dynamitu do kopalni. Na ile dni wcześniej należy zgłosić ten fakt do Komendanta Wojewódzkiego PSP?",
+  "AnswerA": "14",
+  "AnswerB": "5",
+  "AnswerC": "2",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Litera „x” w górnym rzędzie znaków na tablicy ostrzegawczej w kolejowym i drogowym transporcie materiałów niebezpiecznych, oznacza:",
+  "AnswerA": "uwaga, promieniowanie,",
+  "AnswerB": "środek znajduje się pod stałym ciśnieniem",
+  "AnswerC": "absolutny zakaz kontaktu danego materiału z wodą",
+  "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Górne cyfry na tablicy ostrzegawczej stosowane w kolejowym i drogowym transporcie materiałów niebezpiecznych oznaczają:",
+    "AnswerA": "numer identyfikacyjny przewożonej substancji",
+    "AnswerB": "numer rozpoznawczy rodzaju niebezpieczeństwa substancji",
+    "AnswerC": "informują o sposobie postępowania podczas awarii",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Pęcherzyk piany wytworzonej przez gaśnicę o symbolu GWP 9Y wypełnia:",
+    "AnswerA": "CO₂",
+    "AnswerB": "powietrze",
+    "AnswerC": "azot",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "APL to:",
+    "AnswerA": "agregat piany lekkiej",
+    "AnswerB": "agregat proszkowy lekki",
+    "AnswerC": "agregat proszkowy specjalny",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile nasad odprowadzających (wylotowych) Ø75 posiada rozdzielacz:",
+    "AnswerA": "1",
+    "AnswerB": "2",
+    "AnswerC": "3",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Symbol PP 2-12 oznacza prądownicę:",
+    "AnswerA": "wodną o wydajności 20 l/cm",
+    "AnswerB": "pianową o wydajności 12 m³/s",
+    "AnswerC": "pianową o wydajności 200 l/min i liczbie spienienia 12",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Z materiałów palnych może być wykonany garaż:",
+    "AnswerA": "boksowy dla jednego samochodu osobowego",
+    "AnswerB": "boksowy dla jednego samochodu półciężarowego",
+    "AnswerC": "wolno stojący, maksymalnie dla 2 samochodów osobowych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Symbol Z10 oznacza strefę zagrożenia wybuchem, w której:",
+    "AnswerA": "mieszanina wybuchowa pyłów występuje często lub długotrwale w normalnych warunkach pracy",
+    "AnswerB": "mieszanina wybuchowa gazów, par lub mgieł występuje stale lub długotrwale w normalnych warunkach",
+    "AnswerC": "występują pary cieczy o DGW mniejszej niż 10%",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy klapy dymowe w dachach i stropach mogą być wykonane z materiałów palnych:",
+    "AnswerA": "tak, do powierzchni 3,5 m²",
+    "AnswerB": "nie",
+    "AnswerC": "tak",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W strefach pożarowych o obciążeniu ogniowym 500 MJ/m² i wyższym jedna jednostka podręcznego sprzętu gaśniczego o masie 2 kg lub 2 dm³ powinna przypadać na każde:",
+    "AnswerA": "150 m²",
+    "AnswerB": "300 m²",
+    "AnswerC": "nie stosuje się gaśnic o takich wielkościach",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W urządzenia przeciwpaniczne należy w miarę możliwości wyposażać drzwi pomieszczeń, w których może przebywać jednocześnie:",
+    "AnswerA": "więcej niż 200 osób",
+    "AnswerB": "więcej niż 300 osób",
+    "AnswerC": "więcej niż 150 dzieci",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Przepisy dotyczące wymagań dla transportu drogowego towarów niebezpiecznych zawarte są w:",
+    "AnswerA": "załącznikach A i B umowy ADR",
+    "AnswerB": "rozporządzeniu dotyczącym transportu",
+    "AnswerC": "załącznikach do ustawy o ochronie przeciwpożarowej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Do czego służy trokomat:",
+    "AnswerA": "do wytwarzania podciśnienia w linii ssawnej",
+    "AnswerB": "do wytwarzania podciśnienia w linii tłocznej",
+    "AnswerC": "do wytwarzania nadciśnienia w linii tłocznej",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Co oznaczają tablice barwy pomarańczowej umiejscowione na samochodzie:",
+    "AnswerA": "uszkodzony samochód",
+    "AnswerB": "samochód przewozi materiały niebezpieczne",
+    "AnswerC": "samochód ciężarowy TIR",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Maksymalna i teoretyczna wysokość ssania wynosi:",
+    "AnswerA": "5 m",
+    "AnswerB": "7,5 m",
+    "AnswerC": "10 m",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Co uzyskujemy w dyfuzorze:",
+    "AnswerA": "zmniejszanie prędkości przepływu",
+    "AnswerB": "zwiększanie prędkości przepływu",
+    "AnswerC": "zmniejszanie wydatku",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Wydajność pistoletu proszkowego w samochodzie GPr–3000 wynosi:",
+    "AnswerA": "5 kg/s",
+    "AnswerB": "15 kg/s",
+    "AnswerC": "30 kg/s",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy do budynku o wysokości 15 m, w którym mieści się dyskoteka na 45 osób wymagane jest wykonanie drogi przeciwpożarowej:",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, ale w przypadku gdy budynek wykonany jest z materiałów palnych",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Ile wyjazdów należy wykonać na ogrodzony plac targowy o powierzchni 4 ha:",
+    "AnswerA": "co najmniej 1",
+    "AnswerB": "co najmniej 2",
+    "AnswerC": "co najmniej 3",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy pomieszczenie chlewni, w której zachodzi konieczność przebywania ludzi dłużej niż 4 godziny na dobę, uważa się za:",
+    "AnswerA": "pomieszczenie przeznaczone na stały pobyt ludzi",
+    "AnswerB": "pomieszczenie przeznaczone na czasowy pobyt ludzi",
+    "AnswerC": "nie uważa się za pomieszczenie przeznaczone na pobyt ludzi",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "W jakiej najmniejszej odległości od placu zabaw dziecięcych można zlokalizować miejsce parkingowe dla 40 samochodów:",
+    "AnswerA": "5 m",
+    "AnswerB": "10 m",
+    "AnswerC": "20 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Jaka jest wymagana najmniejsza szerokość użytkowa biegu schodów wewnętrznych w budynku szkoły:",
+    "AnswerA": "1,0 m",
+    "AnswerB": "1,2 m",
+    "AnswerC": "1,4 m",
+    "CorrectAnswer": 1
+  },
+  {
+    "QuestionTitle": "Czy do pomieszczeń technicznych zlokalizowanych na ostatniej kondygnacji w budynku wysokim może być doprowadzona instalacja gazowa:",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, po zaopiniowaniu przez właściwą komendę wojewódzką PSP",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "W jakiej najmniejszej odległości od grzejnika centralnego ogrzewania można ustawić butlę z gazem propan-butan służącą do zasilania kuchenki gazowej:",
+    "AnswerA": "0,5 m",
+    "AnswerB": "1,0 m",
+    "AnswerC": "1,5 m",
+    "CorrectAnswer": 0
+  },
+  {
+    "QuestionTitle": "Czy w garażu oświetlonym wyłącznie światłem sztucznym wymagane jest stosowanie oświetlenia awaryjnego:",
+    "AnswerA": "nie",
+    "AnswerB": "tak",
+    "AnswerC": "tak, jeżeli powierzchnia garażu przekracza 1000 m²",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "Czy w dachu, dla którego wymagana jest odporność można wykonać świetliki nie posiadające odporności ogniowej:",
+    "AnswerA": "nie można",
+    "AnswerB": "można, jeżeli powierzchnia nie przekracza 100 m²",
+    "AnswerC": "można, jeżeli powierzchnia świetlików nie przekracza 20% powierzchni dachu",
+    "CorrectAnswer": 2
+  },
+  {
+    "QuestionTitle": "O ile można zwiększyć długość przejścia ewakuacyjnego w garażu zamkniętym przy zastosowaniu stałych urządzeń gaśniczych:",
+    "AnswerA": "o 50%",
+    "AnswerB": "o 100%",
+    "AnswerC": "nie można zwiększyć",
+    "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "W jakim przypadku nie normuje się długości miedzy budynkami:",
+  "AnswerA": "jeżeli wykonane są z materiałów niepalnych,",
+  "AnswerB": "jeżeli wykonane są z materiałów niepalnych i położone są na jednej działce budowlanej",
+  "AnswerC": "nie może mieć więcej niż dwie kondygnacje",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Ile kondygnacji może mieć budynek tymczasowy przeznaczony na pobyt ludzi:",
+  "AnswerA": "musi być jednokondygnacyjny,",
+  "AnswerB": "musi być jednokondygnacyjny o wysokości nie przekraczającej 12 m,",
+  "AnswerC": "może mieć nie więcej niż 2 kondygnacje",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Ile wynosi minimalna głębokość przeciwpożarowego zbiornika wodnego:",
+  "AnswerA": "0,5 m",
+  "AnswerB": "0,7 m",
+  "AnswerC": "1,2 m",
+  "CorrectAnswer": 0
+  },
+  {
+  "QuestionTitle": "Czy dla stacji gazu płynnego zlokalizowanej poza granicą jednostki osadniczej należy zapewnić wodę dla celów przeciwpożarowych do zewnętrznego gaszenia pożaru:",
+  "AnswerA": "nie",
+  "AnswerB": "tak",
+  "AnswerC": "tak, jeżeli pojemność zbiorników z gazem nie przekracza 20m³",
+  "CorrectAnswer": 1
+  },
+  {
+  "QuestionTitle": "Jaka powinna być odległość hydrantu zewnętrznego od krawędzi drogi lub ulicy:",
+  "AnswerA": "nie powinna przekraczać 2m",
+  "AnswerB": "nie powinna przekraczać 5m",
+  "AnswerC": "nie powinna przekraczać 15m",
+  "CorrectAnswer": 2
+  },
+  {
+  "QuestionTitle": "Kiedy strażak może dokonać czynności kontrolno-rozpoznawczych w celu sprawdzenia ładunków niebezpiecznych przewożonych pojazdami samochodowymi?",
+  "AnswerA": "nie ma prawa do kontroli",
+  "AnswerB": "kontrola może być przeprowadzona tylko na terenie przedsiębiorcy zajmującym się magazynowaniem tych materiałów",
+  "AnswerC": "kontrola może być prowadzona tylko w asyście Policji",
+  "CorrectAnswer": 1
+  }
+]
