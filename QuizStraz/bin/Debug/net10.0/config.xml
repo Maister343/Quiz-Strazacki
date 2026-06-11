@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HowManyQuestionsToAsk>30</HowManyQuestionsToAsk>
+  <QuestionColor>DarkYellow</QuestionColor>
+  <GivenAnswerColor>Cyan</GivenAnswerColor>
+  <CorrectAnswerColor>Green</CorrectAnswerColor>
+  <WrongAnswerColor>Red</WrongAnswerColor>
+  <AlternatingColor1>Magenta</AlternatingColor1>
+  <AlternatingColor2>Yellow</AlternatingColor2>
+</Config>
