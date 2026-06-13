@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../QuizStrażInstaller/QuizStrażInstaller.vdproj" Type="Installer" />
-  <Project Path="QuizStraz.csproj" />
-</Solution>
